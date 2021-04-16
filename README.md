@@ -1,5 +1,7 @@
 # cta
 
+https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
+
 <table>
    <tbody>
       <tr>
