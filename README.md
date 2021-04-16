@@ -176,6 +176,47 @@
          <td>Ž</td>
       </tr>
       <tr>
+         <th>Cyrillic</th>
+         <td>А</td>
+         <td>Ә</td>
+         <td>Б</td>
+         <td>Җ</td>
+         <td>Ч</td>
+         <td>Д</td>
+         <td>Е</td>
+         <td>Ф</td>
+         <td>Г</td>
+         <td>Ғ</td>
+         <td>Һ</td>
+         <td>Х</td>
+         <td>И</td>
+         <td>Ы</td>
+         <td>Ж</td>
+         <td>К</td>
+         <td>Ҡ, Қ</td>
+         <td>Л</td>
+         <td>М</td>
+         <td>Н</td>
+         <td>Ң</td>
+         <td>О</td>
+         <td>Ө</td>
+         <td>П</td>
+         <td>Р</td>
+         <td>С</td>
+         <td>Ҫ</td>
+         <td>Ш</td>
+         <td>Т</td>
+         <td>Ц</td>
+         <td>У</td>
+         <td>Ү</td>
+         <td>В</td>
+         <td>Ў</td>
+         <td>Й</td>
+         <td>З</td>
+         <td>Ҙ</td>
+         <td>Ж</td>
+      </tr>
+      <tr>
          <th>Turkish</th>
          <td>A</td>
          <td>-</td>
