@@ -416,5 +416,46 @@
          <td>-</td>
          <td>-</td>
       </tr>
+      <tr>
+         <th>Turkmen</th>
+         <td>A</td>
+         <td>Ä</td>
+         <td>B</td>
+         <td>C</td>
+         <td>Ç</td>
+         <td>D</td>
+         <td>E</td>
+         <td>F</td>
+         <td>G</td>
+         <td>Ğ</td>
+         <td>H</td>
+         <td>-</td>
+         <td>I</td>
+         <td>Ĩ</td>
+         <td>-</td>
+         <td>K</td>
+         <td>-</td>
+         <td>L</td>
+         <td>M</td>
+         <td>N</td>
+         <td>Ň</td>
+         <td>O</td>
+         <td>Ö</td>
+         <td>P</td>
+         <td>R</td>
+         <td>S</td>
+         <td>-</td>
+         <td>Ş</td>
+         <td>T</td>
+         <td>-</td>
+         <td>U</td>
+         <td>Ü</td>
+         <td>V</td>
+         <td>-</td>
+         <td>Y</td>
+         <td>Z</td>
+         <td>-</td>
+         <td>Ž</td>
+      </tr>
    </tbody>
 </table>
