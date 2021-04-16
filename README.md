@@ -126,8 +126,8 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 `a ä b c ç d e f g ğ h i ĩ j k l m n ň o ö p q r s ş t u ü v w x y z`
 
 ### Additional
-`Ś Ţ Ź Ž Ə`<br>
-`ś ţ ź ž ə`
+`Ś Ţ Ź Ž Ə Ŋ`<br>
+`ś ţ ź ž ə ŋ`
 
 **Jj** = **Žž**
 
@@ -169,6 +169,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>Ţ</td>
          <td>U</td>
+         <td>Ū</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -210,6 +211,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>Т</td>
          <td>Ц</td>
          <td>У</td>
+         <td>Ұ</td>
          <td>Ү</td>
          <td>В</td>
          <td>Ў</td>
@@ -251,6 +253,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -291,6 +294,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -331,6 +335,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -372,6 +377,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -413,6 +419,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -453,6 +460,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -494,6 +502,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>-</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -535,6 +544,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>Ţ</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -576,9 +586,52 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>T</td>
          <td>Ţ</td>
          <td>U</td>
+         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
+         <td>Y</td>
+         <td>Z</td>
+         <td>-</td>
+         <td>-</td>
+      </tr>
+      <tr>
+         <th>Kazakh</th>
+         <td>A</td>
+         <td>Ä</td>
+         <td>B</td>
+         <td>-</td>
+         <td>-</td>
+         <td>D</td>
+         <td>E</td>
+         <td>F</td>
+         <td>G</td>
+         <td>Ğ</td>
+         <td>H</td>
+         <td>-</td>
+         <td>I</td>
+         <td>Ĩ</td>
+         <td>J</td>
+         <td>K</td>
+         <td>Q</td>
+         <td>L</td>
+         <td>M</td>
+         <td>N</td>
+         <td>Ŋ</td>
+         <td>O</td>
+         <td>Ö</td>
+         <td>P</td>
+         <td>R</td>
+         <td>S</td>
+         <td>-</td>
+         <td>Ş</td>
+         <td>T</td>
+         <td>-</td>
+         <td>U</td>
+         <td>Ū</td>
+         <td>Ü</td>
+         <td>V</td>
+         <td>-</td>
          <td>Y</td>
          <td>Z</td>
          <td>-</td>
