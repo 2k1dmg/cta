@@ -145,12 +145,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>X</td>
+         <td>X</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>Q</td>
+         <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -170,7 +170,8 @@
          <td>W</td>
          <td>Y</td>
          <td>Z</td>
-         <td>Ź</td>		 
+         <td>Ź</td>
+         <td>Ž</td>
       </tr>
       <tr>
          <th>Turkish</th>
@@ -185,12 +186,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>-</td>
+         <td>-</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>-</td>
+         <td>-</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -210,7 +211,8 @@
          <td>-</td>
          <td>Y</td>
          <td>Z</td>
-         <td>-</td>	
+         <td>-</td>
+         <td>-</td>
       </tr>
          <th>Azeri</th>
          <td>A</td>
@@ -224,12 +226,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>X</td>
+         <td>X</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>Q</td>
+         <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -249,7 +251,8 @@
          <td>-</td>
          <td>Y</td>
          <td>Z</td>
-         <td>-</td>		 
+         <td>-</td>
+         <td>-</td>
       </tr>
          <th>Tatar</th>
          <td>A</td>
@@ -263,12 +266,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>X</td>
+         <td>X</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>Q</td>
+         <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -289,7 +292,8 @@
          <td>Y</td>
          <td>Z</td>
          <td>-</td>
-	  </tr>
+         <td>-</td>
+      </tr>
       <tr>
          <th>Bashkir</th>
          <td>A</td>
@@ -303,12 +307,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>X</td>
+         <td>X</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>Q</td>
+         <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -328,7 +332,8 @@
          <td>W</td>
          <td>Y</td>
          <td>Z</td>
-         <td>Ź</td>		 
+         <td>Ź</td>
+         <td>-</td>
       </tr>
       <tr>
          <th>Barsilian</th>
@@ -343,12 +348,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>-</td>
+         <td>-</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>-</td>
+         <td>-</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -368,7 +373,8 @@
          <td>W</td>
          <td>Y</td>
          <td>Z</td>
-         <td>-</td>		 
+         <td>-</td>
+         <td>Ž</td>
       </tr>
          <th>Crimean Tatar</th>
          <td>A</td>
@@ -382,12 +388,12 @@
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-		 <td>-</td>
+         <td>-</td>
          <td>I</td>
          <td>Ĩ</td>
          <td>J</td>
          <td>K</td>
-		 <td>Q</td>
+         <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
@@ -407,7 +413,8 @@
          <td>W</td>
          <td>Y</td>
          <td>Z</td>
-         <td>-</td>		 
+         <td>-</td>
+         <td>-</td>
       </tr>
    </tbody>
 </table>
