@@ -129,6 +129,10 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 `Ś Ţ Ź Ž Ə Ŋ`<br>
 `ś ţ ź ž ə ŋ`
 
+### Extended
+`Â Ê Î Ô Û`<br>
+`â ê î ô û`
+
 **Jj** = **Žž**
 
 <table>
