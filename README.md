@@ -118,3 +118,12 @@
       </tr>
    </tbody>
 </table>
+
+### Main
+`A Ä B C Ç D E F G Ğ H I Ĩ J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z`<br>
+`a ä b c ç d e f g ğ h i ĩ j k l m n ñ o ö p q r s ş t u ü v w x y z`
+
+### Additional
+`Ś Ţ Ź Ž Ə`<br>
+`ś ţ ź ž ə`
+
