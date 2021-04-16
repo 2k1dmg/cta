@@ -412,7 +412,7 @@
          <td>U</td>
          <td>Ü</td>
          <td>V</td>
-         <td>W</td>
+         <td>-</td>
          <td>Y</td>
          <td>Z</td>
          <td>-</td>
