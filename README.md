@@ -128,8 +128,8 @@ Common Turkic Alphabet without "İ, ı" letters
 `a ä b c ç d e f g ğ h i ĩ j k l m n ň o ö p q r s ş t u ü v w x y z`
 
 ### Additional
-`Ś Ţ Ź Ž Ə Ŋ`<br>
-`ś ţ ź ž ə ŋ`
+`Ś Ţ Ź Ž Ə`<br>
+`ś ţ ź ž ə`
 
 ### Extended
 `Â Ê Î Ô Û`<br>
