@@ -2,6 +2,8 @@
 
 https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 
+Common Turkic Alphabet without "İ, ı" letters
+
 <table>
    <tbody>
       <tr>
