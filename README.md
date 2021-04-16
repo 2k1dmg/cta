@@ -353,7 +353,7 @@
          <td>-</td>
          <td>I</td>
          <td>Ĩ</td>
-         <td>J</td>
+         <td>-</td>
          <td>K</td>
          <td>-</td>
          <td>L</td>
