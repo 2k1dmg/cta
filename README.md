@@ -621,7 +621,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ŋ</td>
+         <td>Ň</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
