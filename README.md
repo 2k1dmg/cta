@@ -266,7 +266,7 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>-</td>
       </tr>
       <tr>
-         <th>Azeri</th>
+         <th>Azerbaijani</th>
          <td>A</td>
          <td>Ə</td>
          <td>B</td>
