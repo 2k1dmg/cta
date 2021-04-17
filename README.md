@@ -666,4 +666,4 @@ Common Turkic Alphabet without "İ, ı" letters
    </tbody>
 </table>
 
-Kazakh alphabet based on Qazaq Grammar with "Şş" instead "Cc". 
+Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc". 
