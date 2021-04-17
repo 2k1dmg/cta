@@ -135,8 +135,8 @@ Common Turkic Alphabet without "İ, ı" letters
 `Â Ê Î Ô Û`<br>
 `â ê î ô û`
 
-**Jj** = /ʒ/ turkic words<br>
-**Jj** = /d͡ʒ/ other words
+**Jj** = /ʒ/<br>
+**Jj** = /d͡ʒ/ often with "Jj" first letter in the word (examples: Japonya, Jamaika)
 
 <table>
    <tbody>
