@@ -466,7 +466,7 @@ Common Turkic Alphabet without "İ, ı" letters
       <tr>
          <th>Tatar</th>
          <td>A</td>
-         <td>Ä</td>
+         <td>Ə</td>
          <td>B</td>
          <td>C</td>
          <td>Ç</td>
@@ -506,7 +506,7 @@ Common Turkic Alphabet without "İ, ı" letters
       <tr>
          <th>Bashkir</th>
          <td>A</td>
-         <td>Ä</td>
+         <td>Ə</td>
          <td>B</td>
          <td>-</td>
          <td>Ç</td>
