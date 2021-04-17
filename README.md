@@ -1,4 +1,4 @@
-# cta
+# Common Turkic Alphabet
 
 https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 
