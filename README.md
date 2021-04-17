@@ -175,7 +175,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>Ţ</td>
          <td>U</td>
-         <td>Ū</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -217,7 +216,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>Т</td>
          <td>Ц</td>
          <td>У</td>
-         <td>Ұ</td>
          <td>Ү</td>
          <td>В</td>
          <td>Ў</td>
@@ -259,7 +257,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -300,7 +297,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -341,7 +337,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -383,7 +378,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -425,7 +419,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -466,7 +459,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -508,7 +500,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>-</td>
@@ -550,7 +541,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>Ţ</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -592,7 +582,6 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>Ţ</td>
          <td>U</td>
-         <td>-</td>
          <td>Ü</td>
          <td>V</td>
          <td>W</td>
@@ -634,10 +623,9 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>T</td>
          <td>-</td>
          <td>U</td>
-         <td>Ū</td>
          <td>Ü</td>
          <td>V</td>
-         <td>-</td>
+         <td>W</td>
          <td>Y</td>
          <td>Z</td>
          <td>-</td>
@@ -645,3 +633,5 @@ Common Turkic Alphabet without "İ, ı" letters
       </tr>
    </tbody>
 </table>
+
+Kazakh alphabet based on Qazaq Grammar with "Şş" insted "Cc". 
