@@ -128,14 +128,15 @@ Common Turkic Alphabet without "İ, ı" letters
 `a ä b c ç d e f g ğ h i ĩ j k l m n ň o ö p q r s ş t u ü v w x y z`
 
 ### Additional
-`Ś Ţ Ź Ž Ə`<br>
-`ś ţ ź ž ə`
+`Ś Ţ Ź Ə`<br>
+`ś ţ ź ə`
 
 ### Extended
 `Â Ê Î Ô Û`<br>
 `â ê î ô û`
 
-**Jj** = **Žž**
+**Jj** = /ʒ/ turkic words<br>
+**Jj** = /d͡ʒ/ other words
 
 <table>
    <tbody>
@@ -318,7 +319,7 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>-</td>
          <td>I</td>
          <td>Ĩ</td>
-         <td>Ž</td>
+         <td>J</td>
          <td>K</td>
          <td>-</td>
          <td>L</td>
@@ -398,7 +399,7 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>-</td>
          <td>I</td>
          <td>Ĩ</td>
-         <td>Ž</td>
+         <td>J</td>
          <td>K</td>
          <td>-</td>
          <td>L</td>
