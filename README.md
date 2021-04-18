@@ -629,7 +629,7 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>Ä</td>
          <td>B</td>
          <td>-</td>
-         <td>-</td>
+         <td>Ç</td>
          <td>D</td>
          <td>E</td>
          <td>F</td>
