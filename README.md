@@ -124,15 +124,15 @@ Common Turkic Alphabet without "İ, ı" letters
 </table>
 
 ### Main
-`A Ä B C Ç D E F G Ğ H I Ĩ J K L M N Ň O Ö P Q R S Ş T U Ü V W X Y Z`<br>
+`A Ä B C Ç D E F G Ğ H I Ĩ J K L M N Ň O Ö P Q R S Ş T U Ü V W X Y Z`  
 `a ä b c ç d e f g ğ h i ĩ j k l m n ň o ö p q r s ş t u ü v w x y z`
 
 ### Additional
-`Ś Ţ Ź Ə`<br>
+`Ś Ţ Ź Ə`  
 `ś ţ ź ə`
 
 ### Extended
-`Â Ê Î Ô Û`<br>
+`Â Ê Î Ô Û`  
 `â ê î ô û`
 
 **Jj** = /ʒ/<br>
@@ -666,4 +666,13 @@ Common Turkic Alphabet without "İ, ı" letters
    </tbody>
 </table>
 
-Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc". 
+Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc".
+
+## Alternatives
+
+### Main
+`A Ą B C Ç D E F G Ğ H I Ĩ J K L M N Ň O Ǫ P Q R S Ş T U Ų V W X Y Z`  
+`a ą b c ç d e f g ğ h i ĩ j k l m n ň o ǫ p q r s ş t u ų v w x y z`
+
+Ą ą = Ä ä; Ǫ ǫ = Ö ö; Ų ų = Ü ü
+
