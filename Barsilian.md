@@ -39,10 +39,10 @@ y ö u k e n g ş ň z h ä
 ```
 Some instilled in:
 
-letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
-җ - c (dzh)
-ч - ç (solid, not "щ")
-ғ - ğ ('ai) after vowels like in Turkish
+letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar  
+җ - c (dzh)  
+ч - ç (solid, not "щ")  
+ғ - ğ ('ai) after vowels like in Turkish  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)
 
 қ (къ), ґ (гъ) q, ģ - not written, but read only in hard syllables, as in Tatar
