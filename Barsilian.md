@@ -86,3 +86,5 @@ menim bizniň seniň sizniň onĩň olarnĩň
 sĩfar bir eki üç dört beş altĩ cedi segiz toguz on  
 yeğirmi otuz kĩrk elli altmĩş cetmiş seksen toksan  
 yüz miň
+
+<a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
