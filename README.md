@@ -384,7 +384,7 @@ Common Turkic Alphabet without "İ, ı" letters
          <td>-</td>
       </tr>
       <tr>
-         <th>Barsilian</th>
+         <th>Barsilian<a href="https://www.facebook.com/Barsilian-language-106433601582070/">*</a></th>
          <td>A</td>
          <td>Ä</td>
          <td>B</td>
