@@ -4,9 +4,9 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 
 Common Turkic Alphabet without "İ, ı" letters
 
-"İ i" replaced by "I i"  
-"I ı"  replaced by "Ĩ ĩ"  
-If something is found that is better than "Ĩ ĩ", then it will be replaced by it. Unfortunately, there are no good alternatives for "I ı".
+"**İ i**" replaced by "**I i**"  
+"**I ı**"  replaced by "**Ĩ ĩ**"  
+If something is found that is better than "**Ĩ ĩ**", then it will be replaced by it. Unfortunately, there are no good alternatives for "**I ı**".
 
 <table>
    <tbody>
