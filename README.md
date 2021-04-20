@@ -666,6 +666,7 @@ Common Turkic Alphabet without "İ, ı" letters
    </tbody>
 </table>
 
+In the Tatar and Bashkir alphabets, the letter "Ää" was replaced by "Əə" because of the high frequency of this letter in these languages.  
 Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc".
 
 ## Alternatives
