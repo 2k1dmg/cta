@@ -675,9 +675,15 @@ Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc".
 
 ## Alternatives
 
-### Main
+### Main 1
 `A Ą B C Ç D E F G Ğ H I Ĩ J K L M N Ň O Ǫ P Q R S Ş T U Ų V W X Y Z`  
 `a ą b c ç d e f g ğ h i ĩ j k l m n ň o ǫ p q r s ş t u ų v w x y z`
 
-Ą ą = Ä ä; Ǫ ǫ = Ö ö; Ų ų = Ü ü
+**Ą ą** = **Ä ä**; **Ǫ ǫ** = **Ö ö**; **Ų ų** = **Ü ü**
+
+### Main 2
+`A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z`  
+`a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p q r s ş t u ü v w x y z`
+
+**Īī** = **Ĩ ĩ**; **Ñ ñ** = **Ň ň**
 
