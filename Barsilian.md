@@ -45,15 +45,15 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ғ - ğ ('ai) after vowels like in Turkish  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)
 
-қ (къ), ґ (гъ) q, ģ - not written, but read only in hard syllables, as in Tatar
+қ (къ), ґ (гъ) q, ģ - not written, but read only in hard syllables, as in Tatar (ģ = ğ in Tatar language)
 
 borrowing is better closer to the original  
 хаўа - hawa  
 воҗдан - vocdan
 
-transition in some words 'k / k' to 'g (z)', 't' to 'd'  
-~~тил -> дил (dil)~~  
-кюн -> гюн (gün)
+transition in some words 'k / q' to 'g' / 'ğ', 't' to 'd'  
+~~тил (til) -> дил (dil)~~  
+кюн (kün) -> гюн (gün)
 
 Prefer, where possible, the form of writing when the beginning of the syllable is "e", not "i". (As in the Kypchak language.)  
 Едил - Идил / Edil - Idil  
