@@ -51,8 +51,8 @@ borrowing is better closer to the original
 хаўа - hawa  
 воҗдан - vocdan
 
-transition in some words 'k / k' to 'g (z)', 't' to 'd' 
-~~тил -> дил (dil)~~
+transition in some words 'k / k' to 'g (z)', 't' to 'd'  
+~~тил -> дил (dil)~~  
 кюн -> гюн (gün)
 
 Prefer, where possible, the form of writing when the beginning of the syllable is "e", not "i". (As in the Kypchak language.)  
