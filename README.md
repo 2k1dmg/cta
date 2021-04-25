@@ -388,7 +388,7 @@ If something is found that is better than "**Ī ī**", then it will be replaced 
          <td>-</td>
       </tr>
       <tr>
-         <th><a href="https://github.com/2k1dmg/cta/blob/main/Barsilian.md">Barsilian</a></th>
+         <th>Barsilian<a href="https://github.com/2k1dmg/cta/blob/main/Barsilian.md">*</a></th>
          <td>A</td>
          <td>Ä</td>
          <td>B</td>
