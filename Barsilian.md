@@ -75,7 +75,7 @@ meni bizni seni sizni onī olarnī
 meña bizge seña sizge oña olarga  
 mende bizde sende sizde onda olarda  
 menden bizden senden sizden ondan olardan  
-menimle bizible seniñle siziñle onala onlarla  
+menimle bizimle seniñle siziñle onala onlarla  
 
 menim bizniñ seniñ sizniñ onīñ olarnīñ  
 
