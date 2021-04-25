@@ -53,7 +53,7 @@ borrowing is better closer to the original
 
 transition in some words 'k / q' to 'g' / 'ğ', 't' to 'd'  
 ~~тил (til) -> дил (dil)~~  
-кюн (kün) -> гюн (gün)
+кюн (kün) -> гюн (gün) | reason: "bugün" not "bukün"
 
 Prefer, where possible, the form of writing when the beginning of the syllable is "e", not "i". (As in the Kypchak language.)  
 Едил - Идил / Edil - Idil  
