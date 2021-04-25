@@ -1,4 +1,4 @@
-The Barsilian language (барсыл тили, barsĩl tili or barsĩlça, барсылча) is a Turkic language spoken by Barsils.
+The Barsilian language (барсыл тили, barsīl tili or barsīlça, барсылча) is a Turkic language spoken by Barsils.
 
 Examples of Language Code and addresses:  
 bl - bal (English-Barsilian)  
@@ -8,13 +8,13 @@ https://bl.wikipedia.org/
 https://bt.wikipedia.org/
 
 Barsilian - barsilian (language) - Barsilia {english}  
-Barsĩl - barsĩl (tili) - Barsĩlĩ {barsĩlça}  
+Barsīl - barsīl (tili) - Barsīlī {barsīlça}  
 Барсыл - барсыл (тили) - Барсылы {барсылча}
 
 The main language is English-Barsilian based on international English (with an Eastern European accent).
 
 The second Barsilian language based on (Kazan) Tatar (with vowel shift), Kumyk, Crimean Tatar and Turkish languages.
-In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Ĩĩ" and "Ii" since those letters cannot be used.
+In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Īī" and "Ii" since those letters cannot be used.
 One of the reasons is the displacement of some vowels in the Tatar language relative to other Turkic languages.
 
 Other options for a second Barsilian language might be:
@@ -33,8 +33,8 @@ Examples of alphabets and words in Cyrillic and Latin that are symmetrical to ea
   ү ч с м и т җ б ғ
 ```
 ```
-y ö u k e n g ş ň z h ä
- f ĩ v a p r o l d j w
+y ö u k e n g ş ñ z h ä
+ f ī v a p r o l d j w
   ü ç s m i t c b ğ
 ```
 Some instilled in:
@@ -71,20 +71,20 @@ Examples of words:
 меним бизниң сениң сизниң оның оларның  
 
 men biz sen siz ol olar  
-meni bizni seni sizni onĩ olarnĩ  
-meňa bizge seňa sizge oňa olarga  
+meni bizni seni sizni onī olarnī  
+meña bizge seña sizge oña olarga  
 mende bizde sende sizde onda olarda  
 menden bizden senden sizden ondan olardan  
-menimle bizible seniňle siziňle onala onlarla  
+menimle bizible seniñle siziñle onala onlarla  
 
-menim bizniň seniň sizniň onĩň olarnĩň  
+menim bizniñ seniñ sizniñ onīñ olarnīñ  
 
 сыфар бир еки үч дөрт беш алты җеди сегиз тогуз он  
 йеғирми отуз кырк елли алтмыш җетмиш сексен токсан  
 йүз миң  
 
-sĩfar bir eki üç dört beş altĩ cedi segiz toguz on  
-yeğirmi otuz kĩrk elli altmĩş cetmiş seksen toksan  
-yüz miň
+sīfar bir eki üç dört beş altī cedi segiz toguz on  
+yeğirmi otuz kīrk elli altmīş cetmiş seksen toksan  
+yüz miñ
 
 <a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
