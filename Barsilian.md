@@ -8,8 +8,8 @@ https://bl.wikipedia.org/
 https://bt.wikipedia.org/
 
 Barsilian - barsilian (language) - Barsilia {english}  
-Barsīl - barsīl (tili) - Barsīlī {barsīlça}  
-Барсыл - барсыл (тили) - Барсылы {барсылча}
+Barsīl - barsīl (tili) - Barsīl eli {barsīlça}  
+Барсыл - барсыл (тили) - Барсыл ели {барсылча}
 
 The main language is English-Barsilian based on international English (with an Eastern European accent).
 
