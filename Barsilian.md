@@ -1,7 +1,7 @@
 The Barsilian language (барсыл тили, barsīl tili or barsīlça, барсылча) is a Turkic language spoken by Barsils.
 
 Examples of Language Code and addresses:  
-bl - bal (English-Barsilian)  
+bl - bal (Anglo-Barsilian or English-Barsilian)  
 bt - bat (Barsilian or Turkic-Barsilian)
 
 https://bl.wikipedia.org/  
@@ -12,7 +12,7 @@ Barsīl - barsīl (tili) - Barsīl eli {barsīlça}
 Барсыл - барсыл (тили) - Барсыл ели {барсылча}  
 Барсилец/барсильянка - барсильский (язык) - Барсилия {русский}
 
-The main language is English-Barsilian based on international English (with an Eastern European accent).
+The main language is Anglo-Barsilian based on international English (with an Eastern European accent).
 
 The second Barsilian language based on (Kazan) Tatar (with vowel shift), Kumyk, Crimean Tatar and Turkish languages.
 In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Īī" and "Ii" since those letters cannot be used.
