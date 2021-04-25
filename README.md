@@ -5,8 +5,8 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 Common Turkic Alphabet without "**İ, ı**" letters
 
 "**İ i**" replaced by "**I i**"  
-"**I ı**"  replaced by "**Ĩ ĩ**"  
-If something is found that is better than "**Ĩ ĩ**", then it will be replaced by it. Unfortunately, there are no good alternatives for "**I ı**".
+"**I ı**"  replaced by "**Ī ī**"  
+If something is found that is better than "**Ī ī**", then it will be replaced by it. Unfortunately, there are no good alternatives for "**I ı**".
 
 <table>
    <tbody>
@@ -27,13 +27,13 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>Ğ</td>
          <td>H</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -64,13 +64,13 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>ğ</td>
          <td>h</td>
          <td>i</td>
-         <td>ĩ</td>
+         <td>ī</td>
          <td>j</td>
          <td>k</td>
          <td>l</td>
          <td>m</td>
          <td>n</td>
-         <td>ň</td>
+         <td>ñ</td>
          <td>o</td>
          <td>ö</td>
          <td>p</td>
@@ -128,8 +128,8 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
 </table>
 
 ### Main
-`A Ä B C Ç D E F G Ğ H I Ĩ J K L M N Ň O Ö P Q R S Ş T U Ü V W X Y Z`  
-`a ä b c ç d e f g ğ h i ĩ j k l m n ň o ö p q r s ş t u ü v w x y z`
+`A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z`  
+`a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p q r s ş t u ü v w x y z`
 
 ### Additional
 `Ś Ţ Ź Ə`  
@@ -162,14 +162,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>X</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -242,7 +242,7 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>-</td>
@@ -282,7 +282,7 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>X</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
@@ -322,14 +322,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>-</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -362,7 +362,7 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>-</td>
@@ -402,14 +402,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>-</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -442,14 +442,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -482,14 +482,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>X</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -522,14 +522,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>X</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -562,14 +562,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>X</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -602,14 +602,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -642,14 +642,14 @@ If something is found that is better than "**Ĩ ĩ**", then it will be replaced 
          <td>H</td>
          <td>-</td>
          <td>I</td>
-         <td>Ĩ</td>
+         <td>Ī</td>
          <td>J</td>
          <td>K</td>
          <td>Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
-         <td>Ň</td>
+         <td>Ñ</td>
          <td>O</td>
          <td>Ö</td>
          <td>P</td>
@@ -675,10 +675,10 @@ Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc".
 
 ## Alternatives
 
-### Main (Ī ī = Ĩ ĩ; Ñ ñ = Ň ň)
-`A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z`  
-`a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p q r s ş t u ü v w x y z`
+### Main (Ĩ ĩ = Ī ī; Ň ň = Ñ ñ)
+`A Ä B C Ç D E F G Ğ H I Ĩ J K L M N Ň O Ö P Q R S Ş T U Ü V W X Y Z`  
+`a ä b c ç d e f g ğ h i ĩ j k l m n ň o ö p q r s ş t u ü v w x y z`
 
 ### Main (Ą ą = Ä ä; Ǫ ǫ = Ö ö; Ų ų = Ü ü; Ŋ ŋ = Ň ň)
-`A Ą B C Ç D E F G Ğ H I Ĩ J K L M N Ŋ O Ǫ P Q R S Ş T U Ų V W X Y Z`  
-`a ą b c ç d e f g ğ h i ĩ j k l m n ŋ o ǫ p q r s ş t u ų v w x y z`
+`A Ą B C Ç D E F G Ğ H I Ī J K L M N Ŋ O Ǫ P Q R S Ş T U Ų V W X Y Z`  
+`a ą b c ç d e f g ğ h i ī j k l m n ŋ o ǫ p q r s ş t u ų v w x y z`
