@@ -115,11 +115,11 @@ menim bizniñ seniñ sizniñ onīñ olarnīñ
 
 сыфар бир еки үч дөрт беш алты җеди сегиз тогуз он  
 йеғирми отуз кырк елли алтмыш җетмиш сексен токсан  
-йүз миң  
+йүз миң миллион  
 
 sīfar bir eki üç dört beş altī cedi segiz toguz on  
 yeğirmi otuz kīrk elli altmīş cetmiş seksen toksan  
-yüz miñ
+yüz miñ million
 
 <a href="https://www.reddit.com/r/barsilianlang/">reddit.com/r/barsilianlang</a>  
 <a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
