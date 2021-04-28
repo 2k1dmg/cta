@@ -38,6 +38,8 @@ y ö u k e n g ş ñ z h ä
  f ī v a p r o l d j w
   ü ç s m i t c b ğ
 ```
+Other letters can be entered through AltGr. Each alphabet has its own for Cyrillic from Russian for Latin from English. For the Cyrillic alphabet: ө - ц, ң - щ, ә - ъ, ү - я, җ - ь. For Latin: k - q, h - x .
+
 Some instilled in:
 
 letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar  
