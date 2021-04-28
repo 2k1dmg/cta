@@ -49,6 +49,27 @@ For the Cyrillic alphabet: ө - ц, ң - щ, ә - ъ, ү - я, җ - ь, ғ - ю,
 For Latin alphabet: k - q, h - x. Maybe the letters "â ê î ô û" too.  
 Symbols: ₽ - AltGr + 8 (in the Russian layout)
 
+<details>
+	<summary>Alphabet</summary>
+ 
+Latin:
+```
+A a Ä ä B b C c Ç ç D d E e F f
+G g Ğ ğ H h I i Ī ī J j K k L l
+M m N n Ñ ñ O o Ö ö P p R r S s 
+Ş ş T t U u Ü ü V v W w Y y Z z
+```
+
+Cyrillic
+```
+А а Ә ә Б б В в Г г Ғ ғ Д д Е е
+Ж ж Җ җ З з И и Й й К к Л л М м
+Н н Ң ң О о Ө ө П п Р р С с Т т
+У у Ў ў Ү ү Ф ф Х х Ч ч Ш ш Ы ы
+```
+
+</details>
+
 Some instilled in:
 
 letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar  
