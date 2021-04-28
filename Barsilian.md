@@ -61,7 +61,7 @@ M m N n Ñ ñ O o Ö ö P p R r S s
 Ş ş T t U u Ü ü V v W w Y y Z z
 ```
 
-Cyrillic
+Cyrillic:
 ```
 А а Ә ә Б б В в Г г Ғ ғ Д д Е е
 Ж ж Җ җ З з И и Й й К к Л л М м
