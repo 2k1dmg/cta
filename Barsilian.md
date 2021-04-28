@@ -47,7 +47,7 @@ y ö u k e n g ş ñ z h ä
 Other letters and symbols can be entered through **AltGr**. Each alphabet has its own for Cyrillic from Russian for Latin from English.  
 For the Cyrillic alphabet: ө - ц, ң - щ, ә - ъ, ү - я, җ - ь, ғ - ю, е - ё.  
 For Latin alphabet: k - q, h - x.  
-The letters "â ê î ô û" are only used to indicate the consonant before this letters is palatalized.  
+Maybe the "â ê î ô û" letters. The letters "â ê î ô û" are only used to indicate the consonant before this letters is palatalized.  
 Symbols: ₽ - AltGr + 8 (in the Russian layout)
 
 <details>
