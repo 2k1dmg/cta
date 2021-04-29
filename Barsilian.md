@@ -28,11 +28,11 @@ And also names and surnames should be on it.
 
 Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://github.com/2k1dmg/cta)) that are symmetrical to each other and contain 32 letters:
 
-`A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P R S Ş T U Ü V W Y Z`  
-`a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p r s ş t u ü v w y z`
-
 `А Ә Б Җ Ч Д Е Ф Г Ғ Х И Ы Ж К Л М Н Ң О Ө П Р С Ш Т У Ү В Ў Й З`  
 `а ә б җ ч д е ф г ғ х и ы ж к л м н ң о ө п р с ш т у ү в ў й з`
+
+`A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P R S Ş T U Ü V W Y Z`  
+`a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p r s ş t u ü v w y z`
 
 ```
 й ө у к е н г ш ң з х ә
