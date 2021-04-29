@@ -72,12 +72,14 @@ Cyrillic:
 </details>
 
 Some instilled in:
-
+ 
 letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar  
 җ - c /d͡ʒ/ as in Turkish (Kumyk, Crimean Tatar)  
 ч - ç (/t͡ʃ/, not /ɕ(ː)/ "щ")  
 ғ - ğ ('ai) after vowels like in Turkish  
-ө - ö as in Turkish (Kumyk, Crimean Tatar)
+ө - ö as in Turkish (Kumyk, Crimean Tatar)  
+?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o"  
+alar - /ɒlɑr/ or olar
 
 қ (къ), ґ (гъ) q, ģ - not written, but read only in hard syllables, as in Tatar (ģ = ğ in Tatar language)
 
