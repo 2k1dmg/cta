@@ -123,8 +123,9 @@ yüz miñ million
 
 Examples of text:
 
-Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Alarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
+Барлык кишилер де азат хем өз абруйлары хем хукуклары йагыннан тең болуп туалар. Аларга акыл хем воҗдан берилген хем бир-бирсине карата туганнарча мүнасебетте болурга теишлер.
 
+Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Alarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
 
 <a href="https://www.reddit.com/r/barsilianlang/">reddit.com/r/barsilianlang</a>  
 <a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
