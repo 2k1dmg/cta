@@ -26,7 +26,7 @@ This is just an example, since the language is not the main one and requires imp
 Since it will be difficult for most people to know the main language of the country, their own and English, therefore English is chosen as the main one. But all the same, all terms should be taken from the Turkic-Barsil language.
 And also names and surnames should be on it.
 
-Examples of alphabets and words in Cyrillic and Latin that are symmetrical to each other and contain 32 letters:
+Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://github.com/2k1dmg/cta)) that are symmetrical to each other and contain 32 letters:
 
 `A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P R S Ş T U Ü V W Y Z`  
 `a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p r s ş t u ü v w y z`
