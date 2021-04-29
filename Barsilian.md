@@ -1,4 +1,4 @@
-The Barsilian language (барсыл тили, barsīl tili or barsīlça, барсылча) is a Turkic language spoken by Barsils.
+The Barsilian language (barsīl tili, барсыл тили or barsīlça, барсылча) is a Turkic language spoken by Barsils.
 
 Examples of Language Code and addresses:  
 bl - bal (Anglo-Barsilian or English-Barsilian)  
