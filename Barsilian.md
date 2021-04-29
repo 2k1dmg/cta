@@ -121,5 +121,10 @@ sīfar bir eki üç dört beş altī cedi segiz toguz on
 yeğirmi otuz kīrk elli altmīş cetmiş seksen toksan  
 yüz miñ million
 
+Examples of text:
+
+Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Alarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
+
+
 <a href="https://www.reddit.com/r/barsilianlang/">reddit.com/r/barsilianlang</a>  
 <a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
