@@ -46,7 +46,7 @@ y ö u k e n g ş ñ z h ä
 ```
 Other letters and symbols can be entered through **AltGr**. Each alphabet has its own for Cyrillic from Russian for Latin from English.  
 For the Cyrillic alphabet: ө - ц, ң - щ, ә - ъ, ү - я, җ - ь, ғ - ю, е - ё.  
-For Latin alphabet: k - q, h - x.  
+For Latin alphabet: k - q, h - x, g - ĝ (In Dutch, the letter [ĝ](https://en.wikipedia.org/wiki/%C4%9C) is used in some phrase books and dictionaries for pronunciation help.)  
 Maybe the "â ê î ô û" letters. The letters "â ê î ô û" are only used to indicate the consonant before this letters is palatalized. They are needed only for dictionaries, educational, technical literature and the like. Words that contain these letters are exceptions. They are not used in ordinary texts.     
 Symbols: ₽ - AltGr + 8 (in the Russian layout)
 
@@ -81,7 +81,8 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o"  
 alar - /ɒlɑr/ or olar
 
-қ (къ), ґ (гъ) q, ģ - not written, but read only in hard syllables, as in Tatar (ģ = ğ in Tatar language)
+қ (къ), ґ (гъ) - q, ĝ(ģ) - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries  
+and maybe "x" letter too
 
 borrowing is better closer to the original  
 хаўа - hawa  
