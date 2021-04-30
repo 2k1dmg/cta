@@ -82,7 +82,7 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 alar - /ɒlɑr/ or olar
 
 қ (къ), ґ (гъ) - q, ĝ(ģ) - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
-and maybe "x" letter too
+and maybe "x" letter too. If use it need to replace "Хх" to "Һһ" in Cyrillic and add "Хх" typed by AltGr.
 
 borrowing is better closer to the original  
 хаўа - hawa  
