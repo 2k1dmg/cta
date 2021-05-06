@@ -670,7 +670,7 @@ If something is found that is better than "**Ī ī**", then it will be replaced 
       <tr>
          <th>Kyrgyz</th>
          <td>A</td>
-         <td>-</td>
+         <td>Ä</td>
          <td>B</td>
          <td>C</td>
          <td>Ç</td>
@@ -680,7 +680,7 @@ If something is found that is better than "**Ī ī**", then it will be replaced 
          <td>G</td>
          <td>Ğ</td>
          <td>H</td>
-         <td>X</td>
+         <td>-</td>
          <td>I</td>
          <td>Ī</td>
          <td>J</td>
@@ -754,7 +754,7 @@ _ToDo: add Nogai, Uyghur and other turkic alphabets_
 
 In the Tatar and Bashkir alphabets, the letter "Ää" was replaced by "Əə" because of the high frequency of this letter in these languages.  
 Kazakh alphabet based on "Qazaq Grammar" with "Şş" instead of "Cc".  
-Kyrgyz alphabet based on ["Inarip (Инарип)](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-latinitsa)".
+Kyrgyz alphabet [based on](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-latinitsa)".
 
 ## Alternatives
 
