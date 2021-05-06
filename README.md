@@ -753,7 +753,8 @@ If something is found that is better than "**Ī ī**", then it will be replaced 
 _ToDo: add Nogai, Uyghur and other turkic alphabets_
 
 In the Tatar and Bashkir alphabets, the letter "Ää" was replaced by "Əə" because of the high frequency of this letter in these languages.  
-Kazakh alphabet based on Qazaq Grammar with "Şş" instead of "Cc".
+Kazakh alphabet based on "Qazaq Grammar" with "Şş" instead of "Cc".  
+Kyrgyz alphabet based on ["Inarip (Инарип)](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-latinitsa)".
 
 ## Alternatives
 
