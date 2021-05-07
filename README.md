@@ -134,8 +134,8 @@ Examples: KᛚRK, kırk; KᛚŞ, kış
 `a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p q r s ş t u ü v w x y z`
 
 ### Additional
-`Ś Ţ Ź Ə Ŏ`  
-`ś ţ ź ə ŏ`
+`Ś Ź Ţ Ə Ŏ`  
+`ś ź ţ ə ŏ`
 
 ### Extended
 `Â Ê Î Ô Û`  
@@ -767,3 +767,13 @@ Kyrgyz alphabet [based on](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-l
 ### Main (Ą ą = Ä ä; Ǫ ǫ = Ö ö; Ų ų = Ü ü; Ŋ ŋ = Ñ ñ)
 `A Ą B C Ç D E F G Ğ H I Ī J K L M N Ŋ O Ǫ P Q R S Ş T U Ų V W X Y Z`  
 `a ą b c ç d e f g ğ h i ī j k l m n ŋ o ǫ p q r s ş t u ų v w x y z`
+
+## Cyrillic
+
+### Main
+`А Ә Б Җ Ч Д Е Ф Г Ғ Һ И Ы Ж К Л М Н Ң О Ө П Қ Р С Ш Т У Ү В Ў Х Й З`  
+`а ә б җ ч д е ф г ғ һ и ы ж к л м н ң о ө п қ р с ш т у ү в ў х й з`
+
+### Additional
+`Ҫ Ҙ Ц`  
+`ҫ ҙ ц`
