@@ -8,7 +8,10 @@ Common Turkic Alphabet without "**İ, ı**" letters
 "**I ı**"  replaced by "**Ī ī**"  
 If something is found that is better than "**Ī ī**", then it will be replaced by it. Unfortunately, there are no good alternatives for "**I ı**".  
 One of the solutions is to create a new pair "**ᛚ ı**" of lowercase letters from which will look like "**ı**", capital on the rune "[**ᛚ**](https://en.wikipedia.org/wiki/Laguz)". Or both are similar to the "**ᛚ**" rune.  
-Examples: KᛚRK, kırk; KᛚŞ, kış
+Examples: KᛚRK, kırk; KᛚŞ, kış  
+Replace two existing unused letters in the Unicode Table of characters. For example "**Ŷ ŷ**" letters.  
+old: KŶRK, kŷrk; KŶŞ, kŷş  
+new: KᛚRK, kırk; KᛚŞ, kış 
 
 <table>
    <tbody>
