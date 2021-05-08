@@ -12,7 +12,7 @@ Barsīl - barsīl (tili) - Barsīl eli {barsīlça}
 Барсыл - барсыл (тили) - Барсыл ели {барсылча}  
 Барсилец/барсильянка - барсильский (язык) - Барсилия {русский}
 
-The main language is Anglo-Barsilian based on international English (with an Eastern European accent).
+The **main language is Anglo-Barsilian** based on international English (with an Eastern European accent).
 
 The second Barsilian language based on (Kazan) Tatar (with vowel shift), Kumyk, Crimean Tatar and Turkish languages.
 In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Īī" and "Ii" since those letters cannot be used.
