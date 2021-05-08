@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 
 Common Turkic Alphabet without "**İ, ı**" (or pairs "**İ i, I ı**") letters  
 <details>
-  <summary>Some links:</summary>
+  <summary>Links:</summary>
   
 [The Turkish İ Problem and Why You Should Care](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)  
 [Internationalization for Turkish: Dotted and Dotless Letter "I"](http://www.i18nguy.com/unicode/turkish-i18n.html)  
