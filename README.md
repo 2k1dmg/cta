@@ -2,7 +2,7 @@
 
 https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
 
-Common Turkic Alphabet without "**İ, ı**" letters
+Common Turkic Alphabet without "**İ, ı**" (or pairs "**İ i, I ı**") letters
 
 "**İ i**" replaced by "**I i**"  
 "**I ı**"  replaced by "**Ī ī**"  
