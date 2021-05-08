@@ -11,7 +11,8 @@ One of the solutions is to create a new pair "**ᛚ ı**" of lowercase letters f
 Examples: KᛚRK, kırk; KᛚŞ, kış  
 Replace two existing unused letters in the Unicode Table of characters. For example "**Ŷ ŷ**" letters.  
 old: KŶRK, kŷrk; KŶŞ, kŷş  
-new: KᛚRK, kırk; KᛚŞ, kış 
+new: KᛚRK, kırk; KᛚŞ, kış  
+Replacing existing ones rather than adding new ones is better for backward compatibility. If the font does not contain these new letters, it is better to show the old ones than nothing.
 
 <table>
    <tbody>
