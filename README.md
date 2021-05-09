@@ -1,6 +1,6 @@
 # Common Turkic Alphabet
 
-https://en.wikipedia.org/wiki/Common_Turkic_Alphabet
+[wikipedia / Common Turkic Alphabet](https://en.wikipedia.org/wiki/Common_Turkic_Alphabet)
 
 Common Turkic Alphabet without "**İ, ı**" (or pairs "**İ i, I ı**") letters  
 <details>
