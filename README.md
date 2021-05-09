@@ -213,7 +213,7 @@ Replacing existing ones rather than adding new ones is better for backward compa
          <td>Ф</td>
          <td>Г</td>
          <td>Ғ</td>
-         <td>Һ</td>
+         <td>Һ, Ҳ</td>
          <td>Х</td>
          <td>И</td>
          <td>Ы</td>
