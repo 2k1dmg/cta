@@ -761,10 +761,50 @@ Replacing existing ones rather than adding new ones is better for backward compa
          <td>Z</td>
          <td>-</td>
       </tr>
+      <tr>
+         <th>Uyghur</th>
+         <td>A</td>
+         <td>Ə</td>
+         <td>B</td>
+         <td>C</td>
+         <td>Ç</td>
+         <td>D</td>
+         <td>E</td>
+         <td>F</td>
+         <td>G</td>
+         <td>Ğ</td>
+         <td>H</td>
+         <td>X</td>
+         <td>I</td>
+         <td>Ī</td>
+         <td>J</td>
+         <td>K</td>
+         <td>Q</td>
+         <td>L</td>
+         <td>M</td>
+         <td>N</td>
+         <td>Ñ</td>
+         <td>O</td>
+         <td>Ö</td>
+         <td>P</td>
+         <td>R</td>
+         <td>S</td>
+         <td>-</td>
+         <td>Ş</td>
+         <td>T</td>
+         <td>-</td>
+         <td>U</td>
+         <td>Ü</td>
+         <td>V</td>
+         <td>W</td>
+         <td>Y</td>
+         <td>Z</td>
+         <td>-</td>
+      </tr>
    </tbody>
 </table>
 
-_ToDo: add Nogai, Uyghur and other turkic alphabets_
+_ToDo: add Nogai and other turkic alphabets_
 
 In the Tatar and Bashkir alphabets, the letter "Ää" was replaced by "Əə" because of the high frequency of this letter in these languages.  
 Kazakh alphabet based on "Qazaq Grammar" with "Şş" instead of "Cc".  
