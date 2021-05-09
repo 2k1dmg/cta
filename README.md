@@ -18,8 +18,8 @@ If something is found that is better than "**Ī ī**", then it will be replaced 
 One of the solutions is to create a new pair "**ᛚ ı**" of lowercase letters from which will look like "**ı**", capital on the rune "[**ᛚ**](https://en.wikipedia.org/wiki/Laguz)". ~~Or both are similar to the "**ᛚ**" rune.~~  
 Examples: KᛚRK, kırk; KᛚŞ, kış  
 Replace two existing unused letters in the Unicode Table of characters. For example "**Ŷ ŷ**" letters.  
-old: KŶRK, kŷrk; KŶŞ, kŷş  
-new: KᛚRK, kırk; KᛚŞ, kış  
+old fonts: KŶRK, kŷrk; KŶŞ, kŷş  
+new fonts: KᛚRK, kırk; KᛚŞ, kış  
 Replacing existing ones rather than adding new ones is better for backward compatibility. If the font does not contain these new letters, it is better to show the old ones than nothing.
 
 <table>
