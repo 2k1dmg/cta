@@ -7,6 +7,9 @@ bt - bat (Barsilian or Turkic-Barsilian)
 https://bl.wikipedia.org/  
 https://bt.wikipedia.org/
 
+Example keyboard layout:  
+[Barsilian keyboard layout](../Barsilian/bars_kl.klc)
+
 Barsilian - barsilian (language) - Barsilia {english}  
 Barsīl - barsīl (tili) - Barsīl eli {barsīlça}  
 Барсыл - барсыл (тили) - Барсыл ели {барсылча}  
