@@ -9,7 +9,7 @@ https://bt.wikipedia.org/
 
 Example keyboard layout:  
 [Barsilian keyboard layout](../Barsilian/bars_kl.klc) (Microsoft Keyboard Layout Creator)  
-_ToDo: Combining Acute Accent_
+_ToDo: Combining Acute Accent for the vowels to indicate stress_
 
 Barsilian - barsilian (language) - Barsilia {english}  
 Barsīl - barsīl (tili) - Barsīl eli {barsīlça}  
