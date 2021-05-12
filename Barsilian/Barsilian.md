@@ -38,13 +38,13 @@ Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://gi
 `a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p r s ş t u ü v w y z`
 
 ```
-й ө у к е н г ш ң з х ә
- ф ы в а п р о л д ж ў 
+ж ө у к е н г ш ң з һ ә
+ ф ы в а п р о л д й ў 
   ү ч с м и т җ б ғ
 ```
 ```
-y ö u k e n g ş ñ z h ä
- f ī v a p r o l d j w
+j ö u k e n g ş ñ z h ä
+ f ī v a p r o l d y w
   ü ç s m i t c b ğ
 ```
 Other letters and symbols can be entered through **AltGr**. Each alphabet has its own for Cyrillic from Russian for Latin from English.  
