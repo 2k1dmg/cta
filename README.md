@@ -402,7 +402,7 @@ Replacing existing ones rather than adding new ones is better for backward compa
          <td>-</td>
       </tr>
       <tr>
-         <th>Barsilian<a href="https://github.com/2k1dmg/cta/blob/main/Barsilian.md">*</a></th>
+         <th>Barsilian<a href="https://github.com/2k1dmg/cta/blob/main/Barsilian/Barsilian.md">*</a></th>
          <td>A</td>
          <td>Ä</td>
          <td>B</td>
