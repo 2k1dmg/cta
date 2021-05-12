@@ -133,11 +133,22 @@ Examples of text:
 
 Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Olarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
 
-with pronunciation help:
-
+<details>
+  <summary>with pronunciation help:</summary>
+  
 Барлық кишилер де азат һем өз абруйлары һем хуқуқлары йаґыннан тең болуп туалар. Оларґа ақыл һем воҗдан берилген һем бир-бирсине қарата туґаннарча мүнасебетте болурґа теишлер.
 
 Barlīq kişiler de azat hem öz abruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Olarĝa aqīl hem vocdan berilgen hem bir-birsine qarata tuĝannarça münasebette bolurĝa teişler.
+
+сыфар бир еки үч дөрт беш алты җеди сегиз тоґуз он  
+йеғирми отуз қырқ елли алтмыш җетмиш сексен тоқсан  
+йүз миң миллион
+
+sīfar bir eki üç dört beş altī cedi segiz toĝuz on  
+yeğirmi otuz qīrq elli altmīş cetmiş seksen toqsan  
+yüz miñ million
+  
+</details>
 
 <a href="https://www.reddit.com/r/barsilianlang/">reddit.com/r/barsilianlang</a>  
 <a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
