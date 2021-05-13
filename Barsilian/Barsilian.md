@@ -88,7 +88,7 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ч - ç (/t͡ʃ/, not /ɕ(ː)/ "щ")  
 ғ - ğ ('ai) after vowels like in Turkish  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)  
-?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o". If you use this you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
+?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o" without "Å å". If you use this (rounded A a) you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
 alar - /ɒlɑr/ or olar  
 <details>
   <summary>Examples of text</summary>
