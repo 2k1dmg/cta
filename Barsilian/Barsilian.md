@@ -9,7 +9,13 @@ https://bt.wikipedia.org/
 
 Example keyboard layout:  
 [Barsilian keyboard layout](../Barsilian/bars_kl.klc) (Microsoft Keyboard Layout Creator)  
-_ToDo: Combining Acute Accent for the vowels to indicate stress_
+<details>
+  <summary>Examples of text with pronunciation help and indicate stress:</summary>
+  
+Bárlīq kişilér de azát hem öz abruylarī́ hem xuquqlarī́ yaĝīnnán teñ bolúp tualár. Olarĝá aqī́l hem vocdán berilgén hem bir-birsiné qaratá tuĝannarçá münasebetté bolurĝá teişlér.
+
+  
+</details>
 
 Barsilian - barsilian (language) - Barsilia {english}  
 Barsīl - barsīl (tili) - Barsīl eli {barsīlça}  
