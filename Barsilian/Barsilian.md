@@ -87,10 +87,14 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ч - ç (/t͡ʃ/, not /ɕ(ː)/ "щ")  
 ғ - ğ ('ai) after vowels like in Turkish  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)  
+
+қ (къ), ґ (гъ) - q, ĝ(ģ) - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
+and maybe "x" letter too.
+
 ?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o" without "Å å". If you use this (rounded A a) you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
 alar - /ɒlɑr/ or olar  
 <details>
-  <summary>Examples of text</summary>
+  <summary>Examples of text with "Å å"</summary>
 
 _with pronunciation help:_  
 Bårlīq kişiler de åzat hem öz åbruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Ålarĝa åqīl hem vocdan berilgen hem bir-birsine qårata tuĝannarça münasebette bolurĝa teişler.
@@ -99,9 +103,6 @@ _without:_
 Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Alarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
   
 </details>
-
-қ (къ), ґ (гъ) - q, ĝ(ģ) - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
-and maybe "x" letter too.
 
 borrowing is better closer to the original  
 хаўа - hawa  
