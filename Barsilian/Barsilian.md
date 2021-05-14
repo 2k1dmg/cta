@@ -27,10 +27,6 @@ Bárlīq kişilér de azát hem öz abruylarī́ hem xuquqlarī́ yaĝīnná
   
 </details>
 
-Other options for a second Barsilian language might be:
-1. Based on the Tatar language without modification
-2. Based on the Turkish language with adaptation to the Tatar language
-
 This is just an example, since the language is not the main one and requires improvement and development. Should be developed by specialists / linguists and those who want to study and communicate.
 Since it will be difficult for most people to know the main language of the country, their own and English, therefore English is chosen as the main one. But all the same, all terms should be taken from the Turkic-Barsil language.
 And also names and surnames should be on it.
