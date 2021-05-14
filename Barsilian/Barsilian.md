@@ -168,4 +168,3 @@ yüz miñ million
 </details>
 
 <a href="https://www.reddit.com/r/barsilianlang/">reddit.com/r/barsilianlang</a>  
-<a href="https://www.facebook.com/Barsilian-language-106433601582070/">facebook.com/Barsilian-language</a>
