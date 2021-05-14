@@ -14,7 +14,7 @@ Barsīl - barsīl (tili) - Barsīl eli {barsīlça}
 
 The **main language is Anglo-Barsilian** based on international English (with an Eastern European accent).
 
-The second Barsilian language based on (Kazan) Tatar (with vowel shift). Also words can be borrowed from other languages such as: Kumyk, Crimean Tatar and Turkish languages.
+The second Barsilian language based on (Kazan) Tatar (with vowel shift). Also words and/or other features of the language can be borrowed from other languages such as: Kumyk, Crimean Tatar and Turkish languages.
 In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Īī" and "Ii" since those letters cannot be used.
 One of the reasons is the displacement of some vowels in the Tatar language relative to other Turkic languages.
 
