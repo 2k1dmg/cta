@@ -24,7 +24,11 @@ Example keyboard layout of Barsilian language:
   <summary>Examples of text with pronunciation help and indicate stress:</summary>
   
 Bárlīq kişilér de azát hem öz abruylarī́ hem xuquqlarī́ yaĝīnnán teñ bolúp tualár. Olarĝá aqī́l hem vocdán berilgén hem bir-birsiné qaratá tuĝannarçá münasebetté bolurĝá teişlér.
-  
+
+nulá bir ekí üç dört beş altī́ cedí segíz toĝúz on  
+yeğirmí otúz qīrq ellí altmī́ş cetmíş seksén toqsán  
+yüz miñ millión
+
 </details>
 
 This is just an example, since the language is not the main one and requires improvement and development. Should be developed by specialists / linguists and those who want to study and communicate.
