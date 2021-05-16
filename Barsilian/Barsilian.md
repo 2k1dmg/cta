@@ -132,15 +132,15 @@ menimle bizimle seniñle siziñle onala onlarla
 
 menim bizniñ seniñ sizniñ onīñ olarnīñ  
 
-сыфар бир еки үч дөрт беш алты җеди сегиз тогуз он  
+нула бир еки үч дөрт беш алты җеди сегиз тогуз он  
 йеғирми отуз кырк елли алтмыш җетмиш сексен токсан  
 йүз миң миллион  
 
-sīfar bir eki üç dört beş altī cedi segiz toguz on  
+nula bir eki üç dört beş altī cedi segiz toguz on  
 yeğirmi otuz kīrk elli altmīş cetmiş seksen toksan  
 yüz miñ million
 
-?сыфар / sīfar - нул / nul; нула / nula; зеро / zero
+?0 - сыфар / sīfar; нул / nul; нула / nula; зеро / zero
 
 Examples of text:
 
@@ -155,11 +155,11 @@ Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup 
 
 Barlīq kişiler de azat hem öz abruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Olarĝa aqīl hem vocdan berilgen hem bir-birsine qarata tuĝannarça münasebette bolurĝa teişler.
 
-сыфар бир еки үч дөрт беш алты җеди сегиз тоґуз он  
+нула бир еки үч дөрт беш алты җеди сегиз тоґуз он  
 йеғирми отуз қырқ елли алтмыш җетмиш сексен тоқсан  
 йүз миң миллион
 
-sīfar bir eki üç dört beş altī cedi segiz toĝuz on  
+nula bir eki üç dört beş altī cedi segiz toĝuz on  
 yeğirmi otuz qīrq elli altmīş cetmiş seksen toqsan  
 yüz miñ million
   
