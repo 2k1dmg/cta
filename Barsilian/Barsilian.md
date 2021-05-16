@@ -85,7 +85,7 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ө - ö as in Turkish (Kumyk, Crimean Tatar)  
 
 қ (къ), ґ (гъ) - q, ĝ(ģ) - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
-and maybe "x" letter too.
+?and maybe "x" letter too.
 
 ?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o" without "Å å". If you use this (rounded A a) you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
 alar - /ɒlɑr/ or olar  
@@ -139,6 +139,8 @@ menim bizniñ seniñ sizniñ onīñ olarnīñ
 sīfar bir eki üç dört beş altī cedi segiz toguz on  
 yeğirmi otuz kīrk elli altmīş cetmiş seksen toksan  
 yüz miñ million
+
+?сыфар / sīfar - нул / nul; нула / nula; зеро / zero
 
 Examples of text:
 
