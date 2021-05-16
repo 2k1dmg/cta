@@ -142,8 +142,8 @@ yüz miñ million
 
 ?0 - сыфар / sīfar; нул / nul; нула / nula; зеро / zero
 
-, - үтүр / ütür  
-. - нукта / nukta
+. - нукта / nukta  
+, - үтүр / ütür
 
 Examples of text:
 
