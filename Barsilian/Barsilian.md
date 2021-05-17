@@ -25,7 +25,7 @@ Example keyboard layout of Barsilian language:
   
 Bárlīq kişilér de azát hem öz abruylarī́ hem xuquqlarī́ yaĝīnnán teñ bolúp tualár. Olarĝá aqī́l hem vocdán berilgén hem bir-birsiné qaratá tuĝannarçá münasebetté bolurĝá teişlér.
 
-nulá bir ekí üç dört beş altī́ cedí segíz toĝúz on  
+núla bir ekí üç dört beş altī́ cedí segíz toĝúz on  
 yeğirmí otúz qīrq ellí altmī́ş cetmíş seksén toqsán  
 yüz miñ millión
 
