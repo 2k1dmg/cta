@@ -88,10 +88,10 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ғ - ğ ('ai) after vowels like in Turkish  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)  
 
-қ (къ), ґ (гъ) - q, ĝ(ģ) - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
-?and maybe "x" letter too.
+қ - q, ґ - ĝ, х {cyrillic} - x {latin} - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
+? ц - ţ (instead of "ts")
 
-?а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o" without "Å å". If you use this (rounded A a) you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
+? а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o" without "Å å". If you use this (rounded A a) you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
 alar - /ɒlɑr/ or olar  
 <details>
   <summary>Examples of text with "Å å"</summary>
