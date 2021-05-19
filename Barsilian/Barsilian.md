@@ -56,8 +56,8 @@ j ö u k e n g ş ñ z h ä
 ```
 
 Translation of letters that are not in the Latin alphabet:  
-**Щ щ** - **Şç şç**  
-**Ц ц** - **Tz tz**  
+**Щ щ** - **Şç şç** or **Ç ç**  
+**Ц ц** - **Tz tz** or **S s**  
 **Ь ь** - **Ğ ğ**, **'** (apostrophe) or nothing
 
 Other letters and symbols can be entered through **AltGr**. Each alphabet has its own for Cyrillic from Russian for Latin from English.  
