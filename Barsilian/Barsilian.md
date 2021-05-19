@@ -81,15 +81,15 @@ Cyrillic:
 
 </details>
 
-Possible to replace letters in Cyrillic:  
+~~Possible to replace letters in Cyrillic:  
 **Қ қ** -> **Ҡ ҡ**  
 **Ң ң** -> **Ҥ ҥ**  
 ?**Җ җ** -> **Ӂ ӂ**  
-Which look clearer.
+Which look clearer.~~
 
-**Ү ү** -> **Ұ ұ**  
+~~**Ү ү** -> **Ұ ұ**  
 **Й й** -> **Ү ү**  
-Which look better.
+Which look better.~~
 
 Some instilled in:
  
