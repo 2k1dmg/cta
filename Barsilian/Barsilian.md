@@ -81,6 +81,11 @@ Cyrillic:
 
 </details>
 
+Possible to replace letters in Cyrillic:  
+**Қ қ** -> **Ҡ ҡ**  
+**Ң ң** -> **Ҥ ҥ**  
+**Җ җ** -> **Ӂ ӂ**
+
 Some instilled in:
  
 letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar  
