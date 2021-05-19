@@ -87,8 +87,8 @@ Possible to replace letters in Cyrillic:
 ?**Җ җ** -> **Ӂ ӂ**  
 Which look clearer.
 
-**Ү ү** -> **Ұ ұ**
-**Й й** -> **Ү ү**
+**Ү ү** -> **Ұ ұ**  
+**Й й** -> **Ү ү**  
 Which look better.
 
 Some instilled in:
