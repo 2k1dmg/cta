@@ -84,7 +84,8 @@ Cyrillic:
 Possible to replace letters in Cyrillic:  
 **Қ қ** -> **Ҡ ҡ**  
 **Ң ң** -> **Ҥ ҥ**  
-**Җ җ** -> **Ӂ ӂ**
+**Җ җ** -> **Ӂ ӂ**  
+Which look better.
 
 Some instilled in:
  
