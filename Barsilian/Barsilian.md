@@ -1,7 +1,7 @@
 The Barsilian language (barsīl tili, барсыл тили or barsīlça, барсылча) is a Turkic language spoken by Barsils.
 
 <details>
-  <summary>Why the self-name "Barsil"?</summary>
+  <summary>Why the self-name "Barsilians"?</summary>
   
 Tatars, in my opinion, is a collective name for many peoples. And the self-name "Barsilians" was chosen because it is less conflicting since no one claims to it.
 
