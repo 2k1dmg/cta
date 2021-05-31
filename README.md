@@ -853,7 +853,7 @@ Kyrgyz alphabet [based on](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-l
 
 ## Proposal
 In languages that use "**q**, **ğ**" (hard **k** and **g**) and "**x**" replace them with "**k**, **g**" and "**h**".
-Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunciation help
+Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunciation help.
 
 ## Alternatives
 
