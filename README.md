@@ -851,6 +851,10 @@ In the Tatar and Bashkir alphabets, the letter "Ää" was replaced by "Əə" bec
 Kazakh alphabet based on "Qazaq Grammar" with "Şş" instead of "Cc".  
 Kyrgyz alphabet [based on](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-latinitsa)".
 
+#### Proposal
+In languages that use "**q**, **ğ**" (hard **k** and **g**) and "**x**" replace them with "**k**, **g**" and "**h**".
+Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunciation help
+
 ## Alternatives
 
 ### Main (Ĩ ĩ = Ī ī; Ň ň = Ñ ñ)
