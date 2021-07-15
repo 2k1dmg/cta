@@ -28,8 +28,8 @@ In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Īī" and "Ii" si
 One of the reasons is the displacement of some vowels in the Tatar language relative to other Turkic languages.
 
 Example keyboard layout of Barsilian language:  
-[Barsilian keyboard layout](../Barsilian/bars_kl.klc) (Microsoft Keyboard Layout Creator)  
-[Barsilian Cyrillic keyboard layout](../Barsilian/bars_ckl.klc)  
+[Barsilian keyboard layout](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl.klc) (Microsoft Keyboard Layout Creator)  
+[Barsilian Cyrillic keyboard layout](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl.klc)  
 <details>
   <summary>Examples of text with pronunciation help and indicate stress:</summary>
   
