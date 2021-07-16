@@ -64,6 +64,13 @@ j ö u k e n g ş ñ z h ä
   ü ç s m i t c b ğ
 ```
 
+BtJOUKEN keyboard layout
+```
+j ö u k e n g ş y z h ä
+ f ì v a p r o l d ñ w
+  ğ ç s m i t c b ü
+```
+
 Translation of letters that are not in the Latin alphabet (most often for names and titles):  
 **Щ щ** - **Şç şç** or **Ç ç**  
 **Ц ц** - **Tz tz** or **S s**  
