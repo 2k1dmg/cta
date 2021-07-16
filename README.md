@@ -14,7 +14,7 @@ Common Turkic Alphabet without "**İ, ı**" (or pairs "**İ i, I ı**") letters
 
 "**İ i**" replaced by "**I i**"  
 "**I ı**"  replaced by "**Ī ī**"  
-If something is found that is better than "**Ī ī**", then it will be replaced by it (**Í í, Ì ì, Ĭ ĭ, Î î, Ǐ ǐ, Ïï, Ĩĩ, Į į, Ī ī**). Unfortunately, there are no good alternatives for "**I ı**" because the letter "**ı**" has a high frequency. And the new one should not be with a diacritical mark.  
+If something is found that is better than "**Ī ī**", then it will be replaced by it. Unfortunately, there are no good alternatives for "**I ı**" because the letter "**ı**" has a high frequency. And the new one should not be with a diacritical mark.  
 One of the solutions is to create a new pair "**ᛚ ı**" of lowercase letters from which will look like "**ı**", capital on the rune "[**ᛚ**](https://en.wikipedia.org/wiki/Laguz)". Or both are similar to the rune.  Instead of the rune "**ᛚ**", there may be another similar one, but which differs from the Latin "**I**".  
 Examples: KᛚRK, kırk; KᛚŞ, kış  
 Replace two existing unused letters of [Latin script in Unicode](https://en.wikipedia.org/wiki/Latin_script_in_Unicode). For example "**Ýý Ỳỳ Ŷŷ Ÿÿ Ỹỹ Ẏẏ Ȳȳ Ỷỷ Ỵỵ Ɏɏ Ƴƴ Ỿỿ**" letters.  
@@ -22,6 +22,8 @@ old fonts: KŶRK, kŷrk; KŶŞ, kŷş
 old fonts: KȲRK, kȳrk; KȲŞ, kȳş  
 new fonts: KᛚRK, kırk; KᛚŞ, kış  
 Replacing existing ones rather than adding new ones is better for backward compatibility. If the font does not contain these new letters, it is better to show the old ones than nothing.
+
+Or just use one of these "**Í í, Ì ì, Ĭ ĭ, Î î, Ǐ ǐ, Ïï, Ĩĩ, Į į, Ī ī**" and not replace anything. "**Ī ī**" can be replaced for example by "**Ì ì**" if it looks better in the text.
 
 <table>
    <tbody>
