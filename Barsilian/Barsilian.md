@@ -59,8 +59,8 @@ Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://gi
   ү ч с м и т җ б ғ
 ```
 ```
-j ö u k e n g ş ñ z h ä
- f ī v a p r o l d y w
+j ö u k e n g ş y z h ä
+ f ī v a p r o l d ñ w
   ü ç s m i t c b ğ
 ```
 
