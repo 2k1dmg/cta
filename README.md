@@ -25,6 +25,8 @@ Replacing existing ones rather than adding new ones is better for backward compa
 
 Or just use one of these "**Í í, Ì ì, Ĭ ĭ, Î î, Ǐ ǐ, Ïï, Ĩĩ, Į į, Ī ī**" and not replace anything. "**Ī ī**" can be replaced for example by "**Ì ì**" if it looks better in the text.
 
+You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö ö, Ü ü**".
+
 <table>
    <tbody>
       <tr>
