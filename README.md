@@ -23,7 +23,7 @@ old fonts: KȲRK, kȳrk; KȲŞ, kȳş
 new fonts: KᛚRK, kırk; KᛚŞ, kış  
 Replacing existing ones rather than adding new ones is better for backward compatibility. If the font does not contain these new letters, it is better to show the old ones than nothing.
 
-Or just use one of these "**Í í, Ì ì, Ĭ ĭ, Î î, Ǐ ǐ, Ïï, Ĩĩ, Į į, Ī ī**" or "**Ý ý Ỳ ỳ Ŷ ŷ Ÿ ÿ Ỹ ỹ Ẏ ẏ Ȳ ȳ Ỷ ỷ Ỵ ỵ Ɏ ɏ Ƴ ƴ Ỿ ỿ**" and not replace anything. "**Ī ī**" can be replaced for example by "**Ì ì**" or "**Ỿ ỿ**" if it looks better in the text.
+Or just use one of these "**Í í, Ì ì, Ĭ ĭ, Î î, Ǐ ǐ, Ïï, Ĩĩ, Į į, Ī ī**" or "**Ý ý Ỳ ỳ Ŷ ŷ Ÿ ÿ Ỹ ỹ Ẏ ẏ Ȳ ȳ Ỷ ỷ Ỵ ỵ Ɏ ɏ Ƴ ƴ Ỿ ỿ**" or "**Ƽ ƽ Ƨ ƨ Ƅ ƅ Ɣ ɣ**" and not replace anything. "**Ī ī**" can be replaced for example by "**Ì ì**" or "**Ỿ ỿ**" if it looks better in the text.
 
 You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö ö, Ü ü**".
 
