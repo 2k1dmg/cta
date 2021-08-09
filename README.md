@@ -861,6 +861,10 @@ Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunci
 
 ## Alternatives
 
+### Main (Ɩ ɩ = Ī ī)
+`A Ä B C Ç D E F G Ğ H I Ɩ J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z`  
+`a ä b c ç d e f g ğ h i ɩ j k l m n ñ o ö p q r s ş t u ü v w x y z`
+
 ### Main (Ì ì = Ī ī; Ā ā = Ä ä; Ō ō = Ö ö; Ū ū = Ü ü)
 `A Ā B C Ç D E F G Ğ H I Ì J K L M N Ñ O Ō P Q R S Ş T U Ū V W X Y Z`  
 `a ā b c ç d e f g ğ h i ì j k l m n ñ o ō p q r s ş t u ū v w x y z`
