@@ -790,7 +790,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>N</td>
          <td>Ñ</td>
          <td>O</td>
-         <td>Ŏ</td>
+         <td>Ō</td>
          <td>P</td>
          <td>R</td>
          <td>S</td>
