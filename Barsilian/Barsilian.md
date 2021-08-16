@@ -44,7 +44,7 @@ yüz miñ millión
 
 This is just an example, since the language is not the main one and requires improvement and development. Should be developed by specialists / linguists and those who want to study and communicate.
 Since it will be difficult for most people to know the main language of the country, their own and English, therefore *English is chosen as the main* one. But all terms should be taken from the Turkic-Barsil language.
-And also names and surnames should be on it. Surnames can end with the letter "i".
+And also names and surnames should be on it. Surnames can end with the letter "i". This letter is added in order not to be confused with the same words as the surname.
 
 Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://github.com/2k1dmg/cta)) that are symmetrical to each other and contain 32 letters:
 
