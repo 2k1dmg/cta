@@ -79,6 +79,12 @@ Based on Russian (Typewriter)
   f ī v a p r o l d ñ w
    ü ç s m i t c b ğ ä
 ```
+```
+| № - / " : , . _ ? % ! ;
+ ж ө у к е н г ш й з һ '
+  ф ы в а п р о л д ң ў 
+   ү ч с м и т җ б ғ ә
+```
 
 Translation of letters that are not in the Latin alphabet (most often for names and titles):  
 **Щ щ** - **Şç şç** or **Ç ç**  
