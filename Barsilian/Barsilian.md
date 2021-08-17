@@ -72,6 +72,14 @@ j ö u k e n g ş y z h ä
   ü ç s m i t c b ğ
 ```
 
+Based on Russian (Typewriter)
+```
+| # - / " : , . _ ? % ! ;
+ j ö u k e n g ş y z h '
+  f ī v a p r o l d ñ w
+   ü ç s m i t c b ğ ä
+```
+
 Translation of letters that are not in the Latin alphabet (most often for names and titles):  
 **Щ щ** - **Şç şç** or **Ç ç**  
 **Ц ц** - **Tz tz** or **S s**  
