@@ -137,6 +137,8 @@ letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar
 ғ - ğ ('ai) after vowels like in Turkish  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)  
 
+The letter "ä" is written mainly in borrowed words: sağät, läkin, imlä
+
 қ - q, ґ - ĝ, х {cyrillic} - x {latin} - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
 ? ц - ţ (instead of "ts")
 
