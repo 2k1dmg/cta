@@ -487,7 +487,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>-</td>
       </tr>
       <tr>
-         <th>Tatar</th>
+         <th>Tatar<a href="https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar.md">*</a></th>
          <td>A</td>
          <td>Ə</td>
          <td>B</td>
