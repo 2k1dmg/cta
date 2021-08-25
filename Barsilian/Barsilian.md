@@ -86,6 +86,14 @@ Based on Russian (Typewriter)
    ү ч с м и т җ б ғ ә
 ```
 
+[JOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl3.klc) keyboard layout
+```
+| # - / " : , . _ ? % ! ;
+ j ö u k e n g š j z h ä
+  f y v a p r o l d ñ w
+   ü č s m i t c b ğ ż
+```
+
 Translation of letters that are not in the Latin alphabet (most often for names and titles):  
 **Щ щ** - **Şç şç** or **Ç ç**  
 **Ц ц** - **Tz tz** or **S s**  
