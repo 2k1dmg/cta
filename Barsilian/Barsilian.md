@@ -145,7 +145,7 @@ In the text can be written without dots.
 қ - q, ґ - ĝ, х {cyrillic} - x {latin} - not written, but read only in hard syllables, as in Tatar (ĝ(ģ) = ğ in Tatar language) and can be used in some phrase books and dictionaries for pronunciation help  
 
 ? ц - ţ (instead of "ts")  
-or ц - ź and keyboard layout dased on Russian Typewriter
+or ц - ż and keyboard layout dased on Russian Typewriter
 
 ? а - а as in Tatar if it not last "a" in the word it is rounded /ɒ/ or replaced by "o" without "Å å". If you use this (rounded A a) you need to add the letter "**Å å**" for phrase books and dictionaries for pronunciation help.  
 alar - /ɒlɑr/ or olar  
