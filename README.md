@@ -863,7 +863,8 @@ Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunci
 
 ### Main + Ż ż (Ц ц)
 `A Ä B C Č D E F G Ğ H I Y Ž K L M N Ñ O Ö P R S Š T U Ü V W J Z`  
-`a ä b c č d e f g ğ h i y ž k l m n ñ o ö p r s š t u ü v w j z`
+`a ä b c č d e f g ğ h i y ž k l m n ñ o ö p r s š t u ü v w j z`  
+The letter "h" after the consonants and the letter "i" is written as "ch".
 
 ### Main (Ɩ ɩ = Ī ī)
 `A Ä B C Ç D E F G Ğ H I Ɩ J K L M N Ñ O Ö P Q R S Ş T U Ü V W X Y Z`  
