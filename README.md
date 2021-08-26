@@ -217,7 +217,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>E</td>
          <td>F</td>
          <td>G</td>
-         <td>GH</td>
+         <td>GH/G</td>
          <td>H/KH</td>
          <td>H/KH</td>
          <td>I</td>
