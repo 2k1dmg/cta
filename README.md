@@ -211,7 +211,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>A</td>
          <td>AE</td>
          <td>B</td>
-         <td>C</td>
+         <td>J</td>
          <td>CH</td>
          <td>D</td>
          <td>E</td>
@@ -237,7 +237,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>TH</td>
          <td>SH</td>
          <td>T</td>
-         <td>TZ</td>
+         <td>C</td>
          <td>U</td>
          <td>UE</td>
          <td>V</td>
