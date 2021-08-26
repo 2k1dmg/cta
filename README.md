@@ -207,7 +207,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>Ź</td>
       </tr>
       <tr>
-         <th>ASCII</th>
+         <th>ASCII<a href="https://github.com/2k1dmg/cta/blob/main/ASCII/ASCII.md">*</a></th>
          <td>A</td>
          <td>AE</td>
          <td>B</td>
