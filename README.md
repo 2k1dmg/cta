@@ -222,7 +222,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>H/KH</td>
          <td>I</td>
          <td>Y</td>
-         <td>ZH</td>
+         <td>ZH/J</td>
          <td>K</td>
          <td>Q/K</td>
          <td>L</td>
