@@ -209,7 +209,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
       <tr>
          <th>ASCII<a href="https://github.com/2k1dmg/cta/blob/main/ASCII/ASCII.md">*</a></th>
          <td>A</td>
-         <td>AE</td>
+         <td>AE/A</td>
          <td>B</td>
          <td>J</td>
          <td>CH</td>
@@ -230,7 +230,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>N</td>
          <td>NG</td>
          <td>O</td>
-         <td>OE</td>
+         <td>OE/O</td>
          <td>P</td>
          <td>R</td>
          <td>S</td>
@@ -239,7 +239,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>T</td>
          <td>C</td>
          <td>U</td>
-         <td>UE</td>
+         <td>UE/U</td>
          <td>V</td>
          <td>W</td>
          <td>Y</td>
