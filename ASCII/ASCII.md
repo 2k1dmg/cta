@@ -1,5 +1,6 @@
 Hard **Ğ** -> **G** in other cases **GH**  
 **H** and **X** after consonants **KH** in other cases **H**  
 **Q** depends on the language, but better as **K**  
-**NG** -> **NHG**
+**NG** -> **NHG**  
+The letters **Ä Ö Ü** in a word can be replaced by **A O U** except for the last one.
 
