@@ -207,6 +207,46 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>Ź</td>
       </tr>
       <tr>
+         <th>ASCII</th>
+         <td>A</td>
+         <td>AE</td>
+         <td>B</td>
+         <td>C</td>
+         <td>CH</td>
+         <td>D</td>
+         <td>E</td>
+         <td>F</td>
+         <td>G</td>
+         <td>GH</td>
+         <td>H</td>
+         <td>H/KH</td>
+         <td>I</td>
+         <td>Y</td>
+         <td>ZH</td>
+         <td>K</td>
+         <td>Q/K</td>
+         <td>L</td>
+         <td>M</td>
+         <td>N</td>
+         <td>NG</td>
+         <td>O</td>
+         <td>OE</td>
+         <td>P</td>
+         <td>R</td>
+         <td>S</td>
+         <td>TH</td>
+         <td>SH</td>
+         <td>T</td>
+         <td>TZ</td>
+         <td>U</td>
+         <td>UE</td>
+         <td>V</td>
+         <td>W</td>
+         <td>Y</td>
+         <td>Z</td>
+         <td>DH</td>
+      </tr>
+      <tr>
          <th>Cyrillic</th>
          <td>А</td>
          <td>Ә</td>
