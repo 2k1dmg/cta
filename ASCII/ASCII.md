@@ -4,7 +4,7 @@ Hard **Ğ** -> **G** in other cases **GH**
 **NG** -> **NHG**  
 The letters **Ä Ö Ü** in a word can be replaced by **A O U** except for the last one. And also if there are letters **E** or **I** in the word.  
 Soft vowels in hard words  **Ä Ö Ü** -> **AE OE UE** (tat. woejdan)  
-Hard vowels in soft words  **A O U** -> **AY OY UY** (tat. monaysabattae)  
+Hard vowels in soft words  **A O U** -> **AU OU UU** (tat. monausabattae)  
 
 ? If there is no letter **C** <d͡ʒ> in the language, then the letter **J** is not replaced.  
 ? **Ś Ź** -> **SX ZX**
