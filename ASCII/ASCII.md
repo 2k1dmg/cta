@@ -9,3 +9,5 @@ Hard vowels in soft words  **A O U** -> **AY OY UY**
 ? If there is no letter **C** <d͡ʒ> in the language, then the letter **J** is not replaced.  
 ? **Ś Ź** -> **SX ZX**
 
+There are exceptions such as: buguen
+
