@@ -15,3 +15,4 @@ Hard vowels in soft words  **A O U** -> **AU OU UU** (tat. monausabattae - möna
 
 Words made from soft and hard words are exceptions: tur. buguen - bugün
 
+bat. eki ming yeghirmi berinchi yiul
