@@ -14,4 +14,7 @@ JAUKEN Tatar Latin Typewriter keyboard layout
   f ī v a p r o l d ñ w
    ü ç s m i t c b ö ğ
 ```
-The letters **q ğ** are written only with soft vowels. Example: nəq, səğət
+The letters **q ğ** are written only with soft vowels. Example: nəq, səğət  
+ц - tz or ţ  
+щ - şç  
+ь - ğ or nothing
