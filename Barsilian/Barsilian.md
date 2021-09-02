@@ -72,6 +72,7 @@ j ö u k e n g ş y z h ä
   ü ç s m i t c b ğ
 ```
 
+[JOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl4_tw.klc) keyboard layout
 Based on Russian (Typewriter)
 ```
 | # - / " : , . _ ? % ! ;
@@ -90,10 +91,10 @@ Alphabet
 `A Ä B C Č D E F G Ğ H I Y Ž K L M N Ñ O Ö P R S Š T U Ü V W J Z Ż`  
 `a ä b c č d e f g ğ h i y ž k l m n ñ o ö p r s š t u ü v w j z ż`
 
-[JOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl3.klc) keyboard layout
+[ZOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl3_tw.klc) keyboard layout
 ```
 | # - / " : , . _ ? % ! ;
- j ö u k e n g š j z h ä
+ ž ö u k e n g š j z h ä
   f y v a p r o l d ñ w
    ü č s m i t c b ğ ż
 ```
