@@ -11,7 +11,7 @@ Hard **Ğ** -> **G** in other cases **GH**
 
 The letters **Ä Ö Ü** in a word can be replaced by **A O U** except for the last one. And also if there are letters **E** or **I** in the word.  
 Soft vowels in hard words  **Ä Ö Ü** -> **AE OE UE** (tat. woejdan - wöcdan)  
-Hard vowels in soft words  **A O U** -> **AU OU UU** (tat. monausabattae - mönasəbəttə)  
+Hard vowels in soft words  **A O U** -> **AU OU UU**
 
 Words made from soft and hard words are exceptions: tur. buguen - bugün
 
