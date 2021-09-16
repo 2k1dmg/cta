@@ -13,8 +13,8 @@ The letters **Ä Ö Ü** in a word can be replaced by **A O U** except for the l
 Soft vowels in hard words  **Ä Ö Ü** -> **AE OE UE** (tat. woejdan - wöcdan)  
 Hard vowels in soft words  **A O U** -> **AU OU UU**
 
-Words made from soft and hard words are exceptions: tur. buguen - bugün; tat. saghat - səğət  
-There are other exceptions: tat. ham - həm, da/də always da
+Words made from soft and hard words are exceptions: tur. buguen - bugün  
+There are other exceptions: tat. ham - həm, da/də always da; saghat - səğət  
 
 bat.: eki ming yeghirmi birinchi yiul
 
