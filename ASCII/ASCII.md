@@ -2,7 +2,7 @@ Hard **Ğ** -> **G** in other cases **GH**
 **H** and **X** after consonants **KH** in other cases **H**  
 **Q** depends on the language, but better as **K**  
 **NG** -> **NHG**  
-**Ğ Q** -> **GH Q** in soft words or with soft letters  
+Hard **Ğ Q** -> **GH Q** in soft words or with soft letters  
 
 If there is no letter **C** <d͡ʒ> in the language, then the letter **J** is not replaced.  
 ? **Ś Ź** -> **SX ZX**
