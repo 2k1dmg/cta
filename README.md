@@ -892,7 +892,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
 _ToDo: add other turkic alphabets_
 
 In the Tatar and Bashkir alphabets, the letter "Ää" was replaced by "Əə" because of the high frequency of this letter in these languages.  
-In the Azerbaijani languages, the letters "Qq" and "Gg" are reversed. Maybe replace the letter "Qq" with "Ĝĝ". Or "Gg" and "Ĝĝ" is written only with hard vowels.  
+In the Azerbaijani languages, the letters "Qq" and "Gg" are reversed. Maybe replace the letter "Qq" with "Ĝĝ". Or with "Gg" and "Ĝĝ" is written only with hard vowels.  
 Kazakh alphabet based on "Qazaq Grammar" with "Şş" instead of "Cc".  
 Kyrgyz alphabet [based on](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-latinitsa)".
 
