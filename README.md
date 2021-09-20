@@ -897,7 +897,8 @@ Kazakh alphabet based on "Qazaq Grammar" with "Şş" instead of "Cc".
 Kyrgyz alphabet [based on](https://www.qyrgyz.com/post/kakoy-budet-kyrgyzskaya-latinitsa)".
 
 ## Proposal
-In languages that use "**q**, **ğ**" (hard **k** and **g**) and "**x**" replace them with "**k**, **g**" and "**h**".
+In languages that use "**q**, **ğ**" (hard **k** and **g**) and "**x**" replace them with "**k**, **g**" and "**h**".  
+"**q**, **ğ**" letters written only with soft vowels.  
 Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunciation help.
 
 ## Alternatives
