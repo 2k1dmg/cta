@@ -934,3 +934,7 @@ In most European alphabets, the sound ⟨j⟩ is written with the letter "j".
 ### Additional
 `Ҫ Ҙ Ц`  
 `ҫ ҙ ц`
+
+#### Additional Azerbaijani
+`Ґ Ҹ`  
+`ґ ҹ`
