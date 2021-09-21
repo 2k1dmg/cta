@@ -344,7 +344,7 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
          <td>Ī</td>
          <td>J</td>
          <td>K</td>
-         <td>G/Ĝ</td>
+         <td>G/Q</td>
          <td>L</td>
          <td>M</td>
          <td>N</td>
