@@ -1,6 +1,6 @@
 Hard **Ğ** -> **G** in other cases **GH**  
 **H** and **X** after consonants **KH** in other cases **H**  
-**Q** depends on the language, but better as **K**. **Ĝ**/**Q** in the Azerbaijani languages as **G**  
+**Q** depends on the language, but better as **K**. **Q** (**Ĝ**) in the Azerbaijani languages as **G**  
 **NG** -> **NHG**  
 Hard **Ğ Q** -> **GH Q** in soft words or with soft letters  
 
