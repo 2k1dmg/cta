@@ -1,4 +1,4 @@
-#### Example reversing of "Qq" and "Gg" .
+#### Example of splitting the letter "Qq" to "Qq" and "Gg"
 
 gün -> gün  
 görə -> görə  
