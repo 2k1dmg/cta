@@ -153,8 +153,8 @@ You can also use these letters "**Ā ā, Ō ō, Ū ū**" instead of "**Ä ä, Ö
 `a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p q r s ş t u ü v w x y z`
 
 ### Additional
-`Ś Ź Ţ Ə Ŏ`  
-`ś ź ţ ə ŏ`
+`Ś Ź Ţ Ə Ō`  
+`ś ź ţ ə ō`
 
 ### Extended
 `Â Ê Î Ô Û`  
