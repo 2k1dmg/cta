@@ -3,6 +3,8 @@
 [wikipedia'en / Common Turkic Alphabet](https://en.wikipedia.org/wiki/Common_Turkic_Alphabet)
 
 Common Turkic Alphabet without "**İ, ı**" (or pairs "**İ i, I ı**") letters  
+<a href="https://github.com/2k1dmg/cta/blob/main/ru.md">ru</a>
+
 <details>
   <summary>Links:</summary>
   
