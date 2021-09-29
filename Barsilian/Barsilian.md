@@ -3,7 +3,8 @@ The Barsilian language (barsīl tili, барсыл тили or barsīlça, ба�
 <details>
   <summary>Why the self-name "Barsilians"?</summary>
   
-Tatars, in my opinion, is a collective name for many peoples. And the self-name "Barsilians" was chosen because it is less conflicting since no one claims to it. For example Bulgars.  
+Tatars, in my opinion, is a collective name for many peoples. And the self-name "Barsilians" was chosen because it is less conflicting since no one claims to it. This is just my suggestion, so you can choose another self-name.  
+For example "Bulgars" cannot be chosen.  
 Also, these self-name and language should reduce disputes between the subethnos of the Tatars (Kazan Tatars and Mishars).  
 They should unite all sub-ethnic groups of the Tatars.
 
