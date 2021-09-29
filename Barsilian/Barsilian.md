@@ -26,7 +26,7 @@ The **main language is Anglo-Barsilian** based on international English (with an
 
 The second language is Barsilian based on (Kazan) Tatar language (with vowel [shift](https://en.wikipedia.org/wiki/Tatar_language#Historical_shifts)). Also words and/or other features of the language can be borrowed from other languages such as: Kumyk, Crimean Tatar and Turkish languages.
 In the Latin alphabet Turkish "Iı" and "İi" are replaced by "Īī" and "Ii" since those letters cannot be used.
-One of the reasons is the displacement of some vowels in the Tatar language relative to other Turkic languages.  
+One of the reasons is the displacement of some vowels in the Tatar language relative to other Turkic languages. And in this case, this language will be easier to save and use because there will be a large number of speakers with other similar languages.  
 ? Maybe just use (Kazan) Tatar language, but it sounds different than other Turkic languages due to the vowel shift. The good thing about this option is that you don't have to do anything with the language.
 
 Example keyboard layout of Barsilian language:  
