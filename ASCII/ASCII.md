@@ -1,6 +1,6 @@
 Hard **Ğ** -> **G** in other cases **GH**  
-**H** and **X** after consonants **KH** in other cases **H**  
-or **H** -> **H**, **X** -> **KH**  
+**H** -> **H**, **X** -> **KH**  
+or **H** and **X** after consonants **KH** in other cases **H**  
 **Q** depends on the language, but better as **K**.  
 ? **Q** in the Azerbaijani languages as **G**  
 **NG** -> **NHG**  
@@ -21,4 +21,4 @@ There are other exceptions: tat. ham - həm, da/də always da; saghat - səğət
 
 bat.: eki ming yeghirmi birinchi yiul
 
-tat.: Barlyk keshelar da azat ham uez abruylary ham hokuklary yagynnan ting bulyp tualar. Alarga akyl ham woejdan birelgan ham ber-bersena karata tugannarcha monasabattae bulyrga tieshlar.
+tat.: Barlyk keshelar da azat ham uez abruylary ham khokuklary yagynnan ting bulyp tualar. Alarga akyl ham woejdan birelgan ham ber-bersena karata tugannarcha monasabattae bulyrga tieshlar.
