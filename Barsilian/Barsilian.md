@@ -35,7 +35,7 @@ Example keyboard layout of Barsilian language:
 <details>
   <summary>Examples of text with pronunciation help and indicate stress:</summary>
   
-Bárlīq kişilér de azát hem öz abruylarī́ hem xuquqlarī́ yaĝīnnán teñ bolúp tualár. Olarĝá aqī́l hem vocdán berilgén hem bir-birsiné qaratá tuĝannarçá münasebetté bolurĝá teişlér.
+Bárlīq kişilér de azát hem öz abruylarī́ hem xuquqlarī́ yaĝīnnán teñ bolúp tualár. Olarĝá aqī́l hem vocdán berilgén hem bir-birsiné qaratá tuĝannarçá münesebetté bolurĝá teişlér.
 
 núla bir ekí üç dört beş altī́ cedí segíz toĝúz on  
 yeğirmí otúz qīrq ellí altmī́ş cetmíş seksén toqsán  
@@ -167,10 +167,10 @@ alar - /ɒlɑr/ or olar
   <summary>Examples of text with "Å å"</summary>
 
 _with pronunciation help:_  
-Bårlīq kişiler de åzat hem öz åbruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Ålarĝa åqīl hem vocdan berilgen hem bir-birsine qårata tuĝannarça münasebette bolurĝa teişler.
+Bårlīq kişiler de åzat hem öz åbruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Ålarĝa åqīl hem vocdan berilgen hem bir-birsine qårata tuĝannarça münesebette bolurĝa teişler.
 
 _without:_  
-Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Alarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
+Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Alarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münesebette bolurga teişler.
   
 </details>
 
@@ -221,16 +221,16 @@ yüz miñ million
 
 Examples of text:
 
-Барлык кишилер де азат һем өз абруйлары һем һукуклары йагыннан тең болуп туалар. Оларга акыл һем воҗдан берилген һем бир-бирсине карата туганнарча мүнасебетте болурга теишлер.
+Барлык кишилер де азат һем өз абруйлары һем һукуклары йагыннан тең болуп туалар. Оларга акыл һем воҗдан берилген һем бир-бирсине карата туганнарча мүнесебетте болурга теишлер.
 
-Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Olarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münasebette bolurga teişler.
+Barlīk kişiler de azat hem öz abruylarī hem hukuklarī yagīnnan teñ bolup tualar. Olarga akīl hem vocdan berilgen hem bir-birsine karata tugannarça münesebette bolurga teişler.
 
 <details>
   <summary>with pronunciation help:</summary>
   
-Барлық кишилер де азат һем өз абруйлары һем хуқуқлары йаґыннан тең болуп туалар. Оларґа ақыл һем воҗдан берилген һем бир-бирсине қарата туґаннарча мүнасебетте болурґа теишлер.
+Барлық кишилер де азат һем өз абруйлары һем хуқуқлары йаґыннан тең болуп туалар. Оларґа ақыл һем воҗдан берилген һем бир-бирсине қарата туґаннарча мүнесебетте болурґа теишлер.
 
-Barlīq kişiler de azat hem öz abruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Olarĝa aqīl hem vocdan berilgen hem bir-birsine qarata tuĝannarça münasebette bolurĝa teişler.
+Barlīq kişiler de azat hem öz abruylarī hem xuquqlarī yaĝīnnan teñ bolup tualar. Olarĝa aqīl hem vocdan berilgen hem bir-birsine qarata tuĝannarça münesebette bolurĝa teişler.
 
 нула бир еки үч дөрт беш алты җеди сегиз тоґуз он  
 йеғирми отуз қырқ елли алтмыш җетмиш сексен тоқсан  
