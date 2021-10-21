@@ -14,6 +14,16 @@ JAUKEN Tatar Latin Typewriter keyboard layout
   f ī v a p r o l d ñ w
    ü ç s m i t c b ö ğ
 ```
+
+JAUKEN 2 Tatar Latin Typewriter keyboard layout
+```
+ j ə u k e n g ş y z h '
+  f ī v a p r o l d ñ w
+   ü ç s m i t c b ö
+```
+**q ğ** - **k g** + Alt Gr
+
+
 The rules are the same as in the Tatar Latin alphabet except:  
 Instead of **ä**, write **ə**  
 The letters **q ğ** are written only with soft vowels. Example: nəq, səğət  
