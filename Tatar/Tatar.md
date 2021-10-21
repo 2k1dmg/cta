@@ -21,7 +21,7 @@ JAUKEN 2 Tatar Latin Typewriter keyboard layout
   f ī v a p r o l d ñ w
    ü ç s m i t c b ö
 ```
-**q ğ** - **k g** + Alt Gr
+**q ğ (x)** - **k g (h)** + Alt Gr
 
 
 The rules are the same as in the Tatar Latin alphabet except:  
