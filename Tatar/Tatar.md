@@ -32,3 +32,13 @@ Instead of **x**, write **h**
 ц - tz or ţ  
 щ - şç  
 ь - ğ or nothing
+
+Example of text:
+
+Şürəle
+
+Nəq Kazan artīnda bardīr ber awīl — «Kīrlay» dilər;  
+Cīrlaganda köy öçen, «tawīklarī cīrlay», dilər.  
+Gərçə anda tugmasam da, min beraz torgan idem;  
+Cirne əz-məz tīrmalap, çəçкən idem, urdan idem.
+
