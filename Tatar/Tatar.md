@@ -19,7 +19,7 @@ JAUKEN 2 Tatar Cyrillic keyboard layout
 ```
 ж ә у к е н г ш й з һ '
  ф ы в а п р о л д ң ў
-  ү ч с м и т җ б ө 
+  ө ч с м и т җ б ү 
 ```
 **қ ғ (х)** - **к г (һ)** + Alt Gr
 
@@ -27,7 +27,7 @@ JAUKEN 2 Tatar Latin keyboard layout
 ```
  j ə u k e n g ş y z h '
   f ī v a p r o l d ñ w
-   ü ç s m i t c b ö
+   ö ç s m i t c b ü
 ```
 **q ğ (x)** - **k g (h)** + Alt Gr
 
