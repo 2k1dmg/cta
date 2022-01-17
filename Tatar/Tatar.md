@@ -40,5 +40,4 @@ Example of text:
 Nəq Kazan artīnda bardīr ber awīl — «Kīrlay» dilər;  
 Cīrlaganda köy öçen, «tawīklarī cīrlay», dilər.  
 Gərçə anda tugmasam da, min beraz torgan idem;  
-Cirne əz-məz tīrmalap, çəçкən idem, urdan idem.
-
+Cirne əz-məz tīrmalap, çəçkən idem, urdan idem.
