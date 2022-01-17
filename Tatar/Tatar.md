@@ -49,3 +49,10 @@ Nəq Kazan artīnda bardīr ber awīl — «Kīrlay» dilər;
 Cīrlaganda köy öçen, «tawīklarī cīrlay», dilər.  
 Gərçə anda tugmasam da, min beraz torgan idem;  
 Cirne əz-məz tīrmalap, çəçkən idem, urdan idem.
+
+Шүрәле
+
+Нәқ Казан артында бардыр бер аўыл — «Кырлай» диләр;  
+Җырлаганда көй өчен, «таўыклары җырлай», диләр.  
+Гәрчә анда туғмасам да, мин бераз торган идем;  
+Җирне әз-мәз тырмалап, чәчкән идем, урган идем.
