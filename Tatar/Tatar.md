@@ -31,6 +31,12 @@ JAUKEN 2 Tatar Latin keyboard layout
 ```
 **q ğ (x)** - **k g (h)** + Alt Gr
 
+TtKAUKEN Tatar Cyrillic keyboard layout
+```
+қ ә у к е н г ш й з һ ғ
+ ф ы в а п р о л д ң ў
+  ө ч с м и т җ б ү
+```
 
 The rules are the same as in the Tatar Latin alphabet except:  
 Instead of **ä**, write **ə**  
