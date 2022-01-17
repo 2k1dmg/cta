@@ -31,7 +31,7 @@ JAUKEN 2 Tatar Latin keyboard layout
 ```
 **q ğ (x)** - **k g (h)** + Alt Gr
 
-TtKAUKEN Tatar Cyrillic keyboard layout
+[TtKAUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtKAUKEN.klc) Tatar Cyrillic keyboard layout
 ```
 қ ә у к е н г ш й з һ ғ
  ф ы в а п р о л д ң ў
