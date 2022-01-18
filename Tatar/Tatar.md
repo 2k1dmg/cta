@@ -1,5 +1,16 @@
 [ru](https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar_ru.md)
 
+**VHUKEN** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN_LAT.klc)
+```
+в һ у к е н г ш ә з қ ғ
+ ў ы й а п р о л д ң ф
+  ө ч с м и т җ б ү
+
+v h u k e n g ş ə z q ğ
+ w ī y a p r o l d ñ f
+  ö ç s m i t c b ü
+```
+
 [YOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKENtw.klc) Tatar Typewriter keyboard layout
 ```
 | № - / " : , . _ ? % ! ;
@@ -37,17 +48,6 @@ JAUKEN 2 Tatar Latin keyboard layout
 қ ә у к е н г ш й з һ ғ
  ф ы в а п р о л д ң ў
   ө ч с м и т җ б ү
-```
-
-**VHUKEN** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN_LAT.klc)
-```
-в һ у к е н г ш ә з қ ғ
- ў ы й а п р о л д ң ф
-  ө ч с м и т җ б ү
-
-v h u k e n g ş ə z q ğ
- w ī y a p r o l d ñ f
-  ö ç s m i t c b ü
 ```
 
 The rules are the same as in the Tatar Latin alphabet except:  
