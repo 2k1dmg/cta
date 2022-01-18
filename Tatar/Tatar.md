@@ -1,3 +1,4 @@
+[ru](https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar_ru.md)
 
 [YOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKENtw.klc) Tatar Typewriter keyboard layout
 ```
