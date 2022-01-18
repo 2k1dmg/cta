@@ -40,6 +40,15 @@ JAUKEN 2 Tatar Latin keyboard layout
 
 ToDo:  
 - Make the most acceptable layouts for Cyrillic and Latin.
+```
+в һ у к е н г ш ә з қ ғ
+ ў ы й а п р о л д ң ф
+  ө ч с м и т җ б ү
+
+v h u k e n g ş ə z q ğ
+ w ī y a p r o l d ñ f
+  ö ç s m i t c b ü
+```
 
 The rules are the same as in the Tatar Latin alphabet except:  
 Instead of **ä**, write **ə**  
