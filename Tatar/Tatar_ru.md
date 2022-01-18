@@ -1,4 +1,4 @@
-
+[en](https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar.md)
 
 **VHUKEN** раскладка клавиатуры [Кириллица](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN.klc) / [Латиница](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN_LAT.klc)
 ```
