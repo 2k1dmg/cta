@@ -38,8 +38,7 @@ JAUKEN 2 Tatar Latin keyboard layout
   ө ч с м и т җ б ү
 ```
 
-ToDo:  
-- Make the most acceptable layouts for Cyrillic and Latin.
+TtKAUKEN keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtKAUKEN2.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtKAUKEN2_LAT.klc)
 ```
 в һ у к е н г ш ә з қ ғ
  ў ы й а п р о л д ң ф
