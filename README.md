@@ -905,6 +905,16 @@ Letters "**q**, **ğ**, **x**" use in phrase books and dictionaries for pronunci
 
 ## Alternatives
 
+### Main
+`A Ā B C Ç D E F G Ğ H I Î J K L M N Ñ O Ō P Q R S Ş T U Ū V W X Y Z`  
+`a ā b c ç d e f g ğ h i î j k l m n ñ o ō p q r s ş t u ū v w x y z`
+
+`Ś Ź Ţ Ə`  
+`ś ź ţ ə`
+
+`Ă Ĕ Ĭ Ŏ Ŭ`  
+`ă ĕ ĭ ŏ ŭ`
+
 ### Main + Ż ż [t͡s]
 `A Ä B C Č D E F G Ğ H I Y Ž K L M N Ñ O Ö P R S Š T U Ü V W J Z Ż`  
 `a ä b c č d e f g ğ h i y ž k l m n ñ o ö p r s š t u ü v w j z ż`  
