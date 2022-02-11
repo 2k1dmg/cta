@@ -59,6 +59,9 @@ Instead of **x**, are written **h**
 щ - şç  
 ь - ğ or nothing
 
+? **ў** ->**ұ ԝ**  
+? **қ** -> **ҡ ԛ**
+
 Example of text:
 
 Şürəle
