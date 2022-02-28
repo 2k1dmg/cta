@@ -1,6 +1,6 @@
 [ru](https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar_ru.md)
 
-**YOUKEN** keyboard layout
+**YOUKEN** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN.klc)
 ```
 й ө у к е н г ш ә з x ғ
  ф ы в а п р о л д ң ў
