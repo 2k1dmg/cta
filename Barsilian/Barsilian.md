@@ -22,6 +22,8 @@ Barsīl - barsīl (tili) - Barsīl eli {barsīlça}
 Барсыл - барсыл (тили) - Барсыл ели {барсылча}  
 Барсилец/барсильянка - барсильский (язык) - Барсилия {русский}
 
+Possible other options: baranjar, eskel.
+
 The **main language is Anglo-Barsilian** based on international English (with an Eastern European accent).
 
 The second language is Barsilian based on (Kazan) Tatar language (with vowel [shift](https://en.wikipedia.org/wiki/Tatar_language#Historical_shifts)). Also words and/or other features of the language can be borrowed from other languages such as: Kumyk, Crimean Tatar and Turkish languages.
