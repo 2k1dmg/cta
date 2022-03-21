@@ -67,6 +67,16 @@ j ö u k e n g ş y z h ä
  f ī v a p r o l d ñ w
   ü ç s m i t c b ğ
 ```
+й-ж, y-j, һ->х
+```
+й ө у к е н г ш ж з х ә
+ ф ы в а п р о л д ң ў 
+  ү ч с м и т җ б ғ
+
+y ö u k e n g ş j z h ä
+ f ī v a p r o l d ñ w
+  ü ç s m i t c b ğ
+```
 
 [JOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/BtJOUKEN.klc) keyboard layout
 ```
