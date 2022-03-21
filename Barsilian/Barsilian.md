@@ -67,7 +67,8 @@ j ö u k e n g ş y z h ä
  f ī v a p r o l d ñ w
   ü ç s m i t c b ğ
 ```
-й-ж, y-j, һ->х
+
+**й-ж, y-j, һ->х** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl7.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl7.klc)
 ```
 й ө у к е н г ш ж з х ә
  ф ы в а п р о л д ң ў 
