@@ -2,13 +2,13 @@
 
 **YOUKEN** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN_LAT.klc)
 ```
-й ө у к е н г ш ә з x ғ
+й ө у к е н г ш ә з x қ
  ф ы в а п р о л д ң ў
-  қ ч с м и т җ б ү
+  ү ч с м и т җ б ғ
 
-y ö u k e n g ş ə z h ğ
+y ö u k e n g ş ə z h q
  f ī y a p r o l d ñ w
-  q ç s m i t c b ü
+  ü ç s m i t c b ğ
 ```
 
 **VHUKEN** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN_LAT.klc)
