@@ -7,7 +7,7 @@
   ү ч с м и т җ б ғ
 
 y ö u k e n g ş ə z h q
- f ī y a p r o l d ñ w
+ f ī v a p r o l d ñ w
   ü ç s m i t c b ğ
 ```
 
