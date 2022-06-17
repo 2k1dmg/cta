@@ -22,7 +22,7 @@ Barsīl - barsīl (tili) - Barsīl eli {barsīlça}
 Барсыл - барсыл (тили) - Барсыл ели {барсылча}  
 Барсилец/барсильянка - барсильский (язык) - Барсилия {русский}
 
-_Other possible options for self-name_: ezgel/eskel, baranjar, kazan bulgars.
+_Other possible options for self-name_: ezgel/eskel, baranjar, kazan bulgars, edil bulgars.
 
 The **main language is Anglo-Barsilian** based on international English (with an Eastern European accent).
 
