@@ -88,3 +88,8 @@ Cirne əz-məz tīrmalap, çəçkən idem, urdan idem.
 Җырлаганда көй өчен, «таўыклары җырлай», диләр.  
 Гәрчә анда туғмасам да, мин бераз торган идем;  
 Җирне әз-мәз тырмалап, чәчкән идем, урган идем.
+
+One more of the variants for the existing alphabet in Cyrillic:
+
+- the letter **въ** is added to separate **в**/**v** and **ў**/**w**
+- the letter **һ** is written only in ordinary dictionaries in the text is replaced by **х**
