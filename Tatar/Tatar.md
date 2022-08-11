@@ -91,5 +91,5 @@ Cirne əz-məz tīrmalap, çəçkən idem, urdan idem.
 
 One more of the variants for the existing alphabet in Cyrillic:
 
-- the letter **въ** is added to separate **в**/**v** and **ў**/**w**
+- the letter **въ** is added to separate **в**/**v** and **ў**/**w**. **въ** is always read as **в**/**v**, and **в** as **ў**/**w**
 - the letter **һ** is written only in ordinary dictionaries in the text is replaced by **х**
