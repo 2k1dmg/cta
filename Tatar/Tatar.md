@@ -82,13 +82,13 @@ Cīrlaganda köy öçen, «tawīklarī cīrlay», dilər.
 Gərçə anda tugmasam da, min beraz torgan idem;  
 Cirne əz-məz tīrmalap, çəçkən idem, urgan idem.
 
-**й-j**, **ы-y**  
+**й-j**, **ы-y**, **х-x**, **гъ-ğ**, **ң-ñ**  
 Nəq Kazan artynda bardyr ber awyl — «Kyrlaj» dilər;  
 Cyrlaganda köy öçen, «tawyklary cyrlaj», dilər.  
 Gərçə anda tugmasam da, min beraz torgan idem;  
 Cirne əz-məz tyrmalap, çəçkən idem, urgan idem.
 
-**й-j**, **ы-y**, **ч-cz**, **ш-sz**  
+**й-j**, **ы-y**, **ч-cz**, **ш-sz**, **х-ch**, **гъ-gh**, **ң-ñ**  
 Nəq Kazan artynda bardyr ber awyl — «Kyrlaj» dilər;  
 Cyrlaganda köy öczen, «tawyklary cyrlaj», dilər.  
 Gərczə anda tugmasam da, min beraz torgan idem;  
