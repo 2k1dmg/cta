@@ -79,6 +79,14 @@ Instead of **x**, are written **h**
 
 Example of text:
 
+нөл бер ике өч дүрт биш алты җиде сигез тугыз ун  
+йегерме утыз кырык илле алтмыш җитмеш сиксән туксан  
+йөз мең миллион
+
+nöl ber ike öç dürt biş altī cide sigez tugīz un  
+yegerme utīz kīrīk ille altmīş citmeş siksän tuksan  
+yöz meñ million
+
 Şürəle
 
 Nəq Kazan artīnda bardīr ber awīl — «Kīrlay» dilər;  
