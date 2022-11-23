@@ -70,9 +70,9 @@ Instead of **ä**, write **ə**
 The letters **q ğ** are written only with soft vowels. Example: nəq, səğət  
 Instead of **x**, are written **h**  
 
-ц - tz or ţ  
+ц - ts or tz or ţ  
 щ - şç  
-ь - ğ or nothing
+ь - nothing or öüä
 
 ? **ў** ->**ұ ԝ**  
 ? **қ** -> **ҡ ԛ**
