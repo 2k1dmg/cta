@@ -1,6 +1,6 @@
 [en](https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar.md)
 
-**YOUKEN** раскладка клавиатуры [Кириллица](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN.klc) / [Латиница](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN_LAT.klc)
+**YOUKEN** раскладка клавиатуры [Кириллица](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN.klc) / [Латиница](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN_LAT.klc) / [Латиница2 ə-ä](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtYOUKEN_LAT2.klc)
 ```
 й ө у к е н г ш ә з x қ
  ф ы в а п р о л д ң ў
