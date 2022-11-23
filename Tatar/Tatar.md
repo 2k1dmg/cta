@@ -9,6 +9,10 @@
 y ö u k e n g ş ə z h q
  f ī v a p r o l d ñ w
   ü ç s m i t c b ğ
+
+y ö u k e n g ş ä z h q
+ f ī v a p r o l d ñ w
+  ü ç s m i t c b ğ
 ```
 
 **VHUKEN** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Tatar/TtVHUKEN_LAT.klc)
