@@ -135,3 +135,48 @@ One more of the variants for the existing alphabet in Cyrillic:
 
 - the letter **въ** is added to separate **в**/**v** and **ў**/**w**. **въ** is always read as **в**/**v**, and **в** as **ў**/**w**
 - the letter **һ** is written only in ordinary dictionaries in the text is replaced by **х**
+
+#### Letter frequency
+<details>
+  <summary>Latin 2012</summary>
+
+``` 
+Letter	%
+a	10.799
+ä	7.521
+l	7.159
+r	7.155
+e	7.100
+n	6.560
+ı	5.758
+t	5.397
+i	4.446
+m	3.302
+b	3.055
+d	3.045
+y	2.733
+s	2.693
+u	2.634
+k	2.629
+o	2.119
+q	1.971
+ç	1.792
+ş	1.758
+ğ	1.357
+p	1.337
+z	1.263
+g	1.183
+ü	0.956
+ö	0.906
+ñ	0.891
+f	0.594
+x	0.451
+c	0.401
+h	0.391
+w	0.356
+v	0.243
+j	0.045
+
+```
+
+</details>
