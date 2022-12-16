@@ -334,7 +334,7 @@ You can also use these letters:
       <tr>
          <th>Azerbaijani<a href="https://github.com/2k1dmg/cta/blob/main/Azerbaijani/Azerbaijani.md">*</a></th>
          <td>A</td>
-         <td>Ə/Ä</td>
+         <td>Ä(Ə)</td>
          <td>B</td>
          <td>C</td>
          <td>Ç</td>
@@ -534,7 +534,7 @@ You can also use these letters:
       <tr>
          <th>Tatar<a href="https://github.com/2k1dmg/cta/blob/main/Tatar/Tatar.md">*</a></th>
          <td>A</td>
-         <td>Ə/Ä</td>
+         <td>Ä(Ə)</td>
          <td>B</td>
          <td>C</td>
          <td>Ç</td>
@@ -574,7 +574,7 @@ You can also use these letters:
       <tr>
          <th>Bashkir</th>
          <td>A</td>
-         <td>Ə/Ä</td>
+         <td>Ä(Ə)</td>
          <td>B</td>
          <td>-</td>
          <td>Ç</td>
@@ -854,7 +854,7 @@ You can also use these letters:
       <tr>
          <th>Uyghur</th>
          <td>A</td>
-         <td>Ə/Ä</td>
+         <td>Ä(Ə)</td>
          <td>B</td>
          <td>C</td>
          <td>Ç</td>
