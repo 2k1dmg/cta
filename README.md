@@ -835,7 +835,7 @@ You can also use these letters:
          <td>N</td>
          <td>Ñ</td>
          <td>O</td>
-         <td>Ō</td>
+         <td>Ö(Ō)</td>
          <td>P</td>
          <td>R</td>
          <td>S</td>
