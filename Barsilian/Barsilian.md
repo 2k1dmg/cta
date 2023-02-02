@@ -161,7 +161,7 @@ Some instilled in:
 letters as in Turkish (Kumyk, Crimean Tatar), and not as in Tatar  
 җ - c /d͡ʒ/ as in Turkish (Kumyk, Crimean Tatar)  
 ч - ç (/t͡ʃ/, not /ɕ(ː)/ "щ")  
-ғ - ğ ('ai) only after vowels like in Turkish or just a letter **g**, but with the letter **ğ** it sounds better (smoother)  
+ғ - ğ ('ai) only after vowels like in Turkish or just a letter **g** or nothing, but with the letter **ğ** it sounds better (smoother): yeğirmi/yegirmi/yeirmi, sağat/sagat/saat  
 ө - ö as in Turkish (Kumyk, Crimean Tatar)  
 
 
