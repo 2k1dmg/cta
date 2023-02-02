@@ -34,6 +34,16 @@ One of the reasons is the displacement of some vowels in the Tatar language rela
 Example keyboard layout of Barsilian language:  
 [Barsilian keyboard layout](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl.klc) (Microsoft Keyboard Layout Creator)  
 [Barsilian Cyrillic keyboard layout](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl.klc)  
+```
+ж ө у к е н г ш й з һ ә
+ ф ы в а п р о л д ң ў 
+  ү ч с м и т җ б ғ
+```
+```
+j ö u k e n g ş y z h ä
+ f ī v a p r o l d ñ w
+  ü ç s m i t c b ğ
+```
 <details>
   <summary>Examples of text with pronunciation help and indicate stress:</summary>
   
@@ -56,17 +66,6 @@ Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://gi
 
 `A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P R S Ş T U Ü V W Y Z`  
 `a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p r s ş t u ü v w y z`
-
-```
-ж ө у к е н г ш й з һ ә
- ф ы в а п р о л д ң ў 
-  ү ч с м и т җ б ғ
-```
-```
-j ö u k e n g ş y z h ä
- f ī v a p r o l d ñ w
-  ü ç s m i t c b ğ
-```
 
 **й-ж, y-j, һ->х** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl7.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl7.klc)
 ```
