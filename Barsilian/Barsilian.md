@@ -77,6 +77,16 @@ y ö u k e n g ş j z h ä
  f ī v a p r o l d ñ w
   ü ç s m i t c b ğ
 ```
+**ў->ж / w->j** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ck8.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl8.klc)
+```
+й ө у к е н г ш ў з х ә
+ ф ы в а п р о л д ң ж 
+  ү ч с м и т җ б ғ
+
+y ö u k e n g ş w z h ä
+ f ī v a p r o l d ñ j
+  ü ç s m i t c b ğ
+```
 
 [JOUKEN](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/BtJOUKEN.klc) keyboard layout
 ```
