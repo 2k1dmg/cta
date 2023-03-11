@@ -17,6 +17,16 @@ nargün - Sunday (nar - sun)
 </details>
 
 <details> 
+  <summary>Day</summary>
+
+gün - day  
+gece - night  
+akşam - evening  
+erte (sabah) - morning
+	
+</details>
+
+<details> 
   <summary>Numbers</summary>
 
 nula bir eki üç dört beş altī cedi segiz toguz on  
