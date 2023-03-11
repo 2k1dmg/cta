@@ -20,10 +20,15 @@ nargün - Sunday (nar - sun)
   <summary>Day</summary>
 
 gün - day  
-gece - night  
+geçe - night  
 akşam - evening  
 erte (sabah) - morning
-	
+
+gündüz  
+geçen  
+akşamda  
+erten
+
 </details>
 
 <details> 
