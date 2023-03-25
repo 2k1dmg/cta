@@ -11,7 +11,11 @@ yanuar febrel mart april may iyün iyül avgust september oktober november desem
   <summary>Week</summary>
 
 aygün - Monday (ay - moon)  
-...todo  
+ekgün - Tuesday  
+ügün - Wednesday  
+dörgün - Thursday  
+eşgün - Friday  
+algün - Saturday  
 nargün - Sunday (nar - sun)
 	
 </details>
