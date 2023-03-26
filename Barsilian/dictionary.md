@@ -30,7 +30,7 @@ erte - morning
 
 gündüz  
 geçen/tünne  
-akşamda/keçkurun  
+akşamma/keçkurun  
 erten
 
 </details>
