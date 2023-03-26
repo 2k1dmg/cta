@@ -24,13 +24,13 @@ nargün - Sunday (nar - sun)
   <summary>Day</summary>
 
 gün - day  
-geçe - night  
-akşam - evening  
-erte (sabah) - morning
+geçe/tün - night  
+akşam/keç - evening  
+erte - morning
 
 gündüz  
-geçen  
-akşamda  
+geçen/tünne  
+akşamda/keçkurun  
 erten
 
 </details>
