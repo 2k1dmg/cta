@@ -23,12 +23,12 @@ nargün - Sunday (nar - sun)
 <details> 
   <summary>Day</summary>
 
-gün - day  
+kün(gün) - day  
 tün(geçe) - night  
 keç(akşam) - evening  
 erte - morning
 
-gündüz  
+kündüz(gündüz)  
 tünne(geçen)  
 keçkurun(akşamma)  
 erten
