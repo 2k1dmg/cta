@@ -86,6 +86,8 @@ menim bizniñ seniñ sizniñ onīñ olarnīñ
 <details> 
   <summary>Other</summary>
 
+bugün - today
+	
 ayī - yes  
 yok - no
 	
