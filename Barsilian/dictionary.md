@@ -64,7 +64,7 @@ erten
   <summary>Numbers</summary>
 
 nula bir eki üç dört beş altī cedi segiz toguz on  
-yegirmi otuz kīrk elli altmīş cetmiş seksen toksan  
+yegirmi otuz kīrīk elli altmīş cetmiş seksen toksan  
 yüz miñ million
 	
 </details>
