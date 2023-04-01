@@ -97,7 +97,11 @@ köz(göz) - eye
 kol - hand  
 ayak - leg
 	
-zur - большой  
-kiçkine - меленький
+zur - big  
+kiçkine - small
+
+yīlga - river
+
+hem - and
 	
 </details>
