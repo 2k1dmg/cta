@@ -93,7 +93,9 @@ yok - no
 	
 baş - head  
 kulak - ear  
-köz(göz) - eye
+köz(göz) - eye  
+kol - hand  
+ayak - leg
 	
 zur - большой  
 kiçkine - меленький
