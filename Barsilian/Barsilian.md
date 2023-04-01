@@ -246,8 +246,10 @@ menim bizniñ seniñ sizniñ onīñ olarnīñ
 йүз миң миллион  
 
 nula bir eki üç dört beş altī cedi segiz toguz on  
-yeğirmi otuz kīrk elli altmīş cetmiş seksen toksan  
+yegirmi* otuz kīrīk* elli altmīş cetmiş seksen toksan  
 yüz miñ million
+
+\* yeğirmi, kīrk
 
 ? 0 - сыфар / sīfar; нул / nul; нула / nula; зеро / zero
 
