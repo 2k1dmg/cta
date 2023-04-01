@@ -10,6 +10,14 @@ yanuar febrel mart april may iyün iyül avgust september oktober november desem
 <details> 
   <summary>Week</summary>
 
+aykün - Monday (ay - moon)  
+ekkün - Tuesday  
+ükün - Wednesday  
+dörkün - Thursday  
+eşkün - Friday  
+alkün - Saturday  
+narkün - Sunday (nar - sun)
+
 aygün - Monday (ay - moon)  
 ekgün - Tuesday  
 ügün - Wednesday  
@@ -75,5 +83,12 @@ menim bizniñ seniñ sizniñ onīñ olarnīñ
 
 ayī - yes  
 yok - no
+	
+baş - head  
+kulak - ear  
+köz(göz) - eye
+	
+zur - большой  
+kiçkine - меленький
 	
 </details>
