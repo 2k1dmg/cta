@@ -1,5 +1,10 @@
 dictionary
 
+If the letter "ğ" is used, then use "g" instead of "k", if not use "g" but not at the beginning of words:  
+yeğirmi - gün  
+yegirmi - kün  
+гомер(ğömer) тат. -> ömür
+
 <details> 
   <summary>Months</summary>
 
