@@ -90,7 +90,7 @@ y ö u k e n g ş w z h ä
   ü ç s m i t c b ğ
 ```
 
-**ў->ж / w->j** without "ğ" keyboard layout Cyrillic / Latin
+**ў->ж / w->j** without "ğ" keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ck9.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl9.klc)
 ```
 й ө у к е н г ш ў з х ә
  ф ы в а п р о л д ң ж 
