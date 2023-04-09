@@ -103,5 +103,14 @@ kiçkine - small
 yīlga - river
 
 hem - and
+
+eklis/eglis - church  
+meçit(mecit) - mosque
+
+adam - man  
+ayal - woman  
+er(koca) - husband  
+hatīn(eş) - wife
+
 	
 </details>
