@@ -105,8 +105,9 @@ taw - mountain
 hawa - air  
 su - water  
 agaç - tree  
-temir- iron  
-wakīt/vakīt - время
+temir- iron
+
+wakīt/vakīt - time
 
 hem - and
 
