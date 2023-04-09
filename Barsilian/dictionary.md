@@ -107,6 +107,7 @@ su - water
 agaç - tree  
 temir- iron
 
+?use "v" instead of "w" at the beginning of words  
 wakīt/vakīt - time
 
 hem - and
