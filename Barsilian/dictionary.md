@@ -100,7 +100,13 @@ ayak - leg
 zur - big  
 kiçkine - small
 
-yīlga - river
+yīlga - river  
+taw - mountain  
+hawa - air  
+su - water  
+agaç - tree  
+temir- iron  
+wakīt/vakīt - время
 
 hem - and
 
