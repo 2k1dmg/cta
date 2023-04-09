@@ -104,7 +104,7 @@ yīlga - river
 
 hem - and
 
-eklis/egliz - church  
+eklis/egliz/ekles - church  
 meçit(mecit) - mosque
 
 adam - man  
