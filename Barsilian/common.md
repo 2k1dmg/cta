@@ -1,2 +1,2 @@
 
-?The religion of Barsilians is Protestantism.
+?The religion of some Barsilians is Protestantism.
