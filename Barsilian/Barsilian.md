@@ -69,7 +69,7 @@ Examples of alphabets and words in Cyrillic and Latin (based on [CTA](https://gi
 `A Ä B C Ç D E F G Ğ H I Ī J K L M N Ñ O Ö P R S Ş T U Ü V W Y Z`  
 `a ä b c ç d e f g ğ h i ī j k l m n ñ o ö p r s ş t u ü v w y z`
 
-**й-ж, y-j, һ->х** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl7.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl7.klc)
+**й-ж, y-j, һ->х** keyboard layout [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl7.klc) / [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl7.klc) **Preferred** 
 ```
 й ө у к е н г ш ж з х ә
  ф ы в а п р о л д ң ў 
