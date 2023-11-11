@@ -120,5 +120,6 @@ ayal - woman
 er(koca) - husband  
 hatīn(eş) - wife
 
+evoluţion - evolution
 	
 </details>
