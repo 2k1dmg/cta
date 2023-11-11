@@ -135,6 +135,9 @@ Alphabet
    ü č s m i t c b ğ ż
 ```
 
+? ToDo  
+Add the letter **Ţţ** (**Цц**) to the alphabet because I think it will have a high frequency.
+
 Translation of letters that are not in the Latin alphabet (most often for names and titles):  
 **Щ щ** - **Şç şç** or **Ç ç**  
 **Ц ц** - **Tz tz** or **S s**  
