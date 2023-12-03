@@ -137,7 +137,7 @@ Alphabet
 
 ? ToDo  
 Add the letter **Ţţ** (**Цц**) to the alphabet because I think it will have a high frequency.  
-Instead of **j** - **ʒ** (**ж**), use **j** - **dʒ** (**дж**)/ **ž** - **ʒ** (**ж**).
+Instead of **j** - **ʒ** (**ж**), use **j** - **dʒ** (**дж**) / **ž** - **ʒ** (**ж**).
 
 Translation of letters that are not in the Latin alphabet (most often for names and titles):  
 **Щ щ** - **Şç şç** or **Ç ç**  
