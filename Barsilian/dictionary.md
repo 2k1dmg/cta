@@ -119,7 +119,19 @@ adam - man
 ayal - woman  
 er(koca) - husband  
 hatīn(eş) - wife
+	
+</details>
 
-evoluţion - evolution
+<details> 
+  <summary>Other - ţ (ц) / j (дж) / ž (ж)</summary>
+
+evoluţion - evolution  
+prinţip - principle  
+funkţion - function  
+
+teknoloji - technology  
+ekoloji - ecology
+
+aždaha - dragon
 	
 </details>
