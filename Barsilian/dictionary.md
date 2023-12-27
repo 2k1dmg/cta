@@ -15,6 +15,16 @@ yanuar febrel mart april may iyün iyül avgust september oktober november desem
 <details> 
   <summary>Week</summary>
 
+Abbreviation
+
+Ayn
+Ekn
+Ükn
+Dön
+Eşn
+Aln
+Nan
+
 aykün - Monday (ay - moon)  
 ekkün - Tuesday  
 ükün - Wednesday  
