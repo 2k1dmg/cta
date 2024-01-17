@@ -20,3 +20,20 @@ z -> ž
 nula bir eki üč dört beš alty đedi segiz toguz on  
 jegirmi otuz kyryk elli altmyš đetmiš seksen toksan  
 jüz miñ million
+
+<details> 
+  <summary>dictionary</summary>
+
+princip - principle  
+funkcion - function  
+evolucion - evolution  
+teknoloĝi - technology  
+ekoloĝi - ecology  
+aždaha - dragon
+
+official - official  
+ceremoni - ceremony
+
+сhronoloĝi - chronology
+	
+</details>
