@@ -34,6 +34,7 @@ aždaha - dragon
 official - official  
 ceremoni - ceremony
 
-сhronoloĝi - chronology
+сhronoloĝi - chronology  
+architektur - architecture
 	
 </details>
