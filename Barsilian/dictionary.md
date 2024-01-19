@@ -133,7 +133,7 @@ hatīn(eş) - wife
 </details>
 
 <details> 
-  <summary>Other - ţ (ц) / j (дж) / ž (ж)</summary>
+  <summary>Other - ţ (ц) / j (дж) / ž (ж) / h (х)</summary>
 
 evoluţion - evolution  
 prinţip - principle  
@@ -143,5 +143,11 @@ teknoloji - technology
 ekoloji - ecology
 
 aždaha - dragon
+
+offiţial - official  
+ţeremoni - ceremony
+
+hronoloji - chronology  
+arhitektur - architecture
 	
 </details>
