@@ -139,7 +139,7 @@ evoluţion - evolution
 prinţip - principle  
 funkţion - function  
 
-teknoloji - technology  
+tehnoloji/teknoloji - technology  
 ekoloji - ecology
 
 aždaha - dragon
