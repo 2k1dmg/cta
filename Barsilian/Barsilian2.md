@@ -27,7 +27,7 @@ jüz miñ million
 princip - principle  
 funkcion - function  
 evolucion - evolution  
-teknoloĝi - technology  
+technoloĝi/teknoloĝi - technology  
 ekoloĝi - ecology  
 aždaha - dragon
 
