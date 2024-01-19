@@ -10,6 +10,7 @@ Version 2
 
 The letter "h" after the consonants and the letter "i" is written as "ch". And some borrowings from other languages.
 
+keyboard layout [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl73.klc) **Preferred** 
 ```
 ĝ ö u k e n g š j z h ä
  f y v a p r o l d ñ w
