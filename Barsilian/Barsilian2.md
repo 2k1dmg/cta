@@ -8,14 +8,20 @@ Version 2
 Ĝ ĝ (? Ġ ġ) - dʒ (dj)  
 Đ đ - dʒ (c)  
 
-The letter "h" after the consonants and the letter "i" is written as "ch". And some borrowings from other languages.
+The letter "h" (not cyrillic "х, һ") after the consonants and the letter "i" is written as "ch". And some borrowings from other languages.
 
-keyboard layout [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl73.klc) **Preferred** 
+keyboard layout [Latin](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_kl73.klc) / [Cyrillic](https://raw.githubusercontent.com/2k1dmg/cta/main/Barsilian/bars_ckl72.klc) **Preferred** 
 ```
 ĝ ö u k e n g š j z h ä
  f y v a p r o l d ñ w
   ü č s m i t đ b c
 z -> ž
+```
+```
+ӂ ө у к е н г ш й з х ә
+ ф ы в а п р о л д ң ў 
+  ү ч с м и т җ б ц
+з -> ж
 ```
 
 nula bir eki üč dört beš alty đedi segiz toguz on  
