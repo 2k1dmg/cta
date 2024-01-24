@@ -33,7 +33,7 @@ jüz miñ million
 
 princip - principle  
 funkcion - function  
-evolucion - evolution  
+evolucion (_read_ evolücion) - evolution  
 technoloĝi/teknoloĝi - technology  
 ekoloĝi - ecology  
 aždaha - dragon
@@ -43,5 +43,7 @@ ceremoni - ceremony
 
 сhronoloĝi - chronology  
 architektur - architecture
+
+illusion (_read_ illüzion) - illusion
 	
 </details>
