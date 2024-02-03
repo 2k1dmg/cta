@@ -3,10 +3,10 @@ Version 2
 `A Ä B C Č D Đ E F G H I Y K L M N Ñ O Ö P R S Š T U Ü V W J Z Ž`  
 `a ä b c č d đ e f g h i y k l m n ñ o ö p r s š t u ü v w j z ž`
 
-С с - t͡s  
-Ž ž - ʒ  (j)  
-Ĝ ĝ (? Ġ ġ) - dʒ (dj)  
-Đ đ - dʒ (c)  
+С с - t͡s / ц  
+Ž ž - ʒ / ж  (j)  
+Ĝ ĝ (? Ġ ġ) - dʒ / дж (dj)  
+Đ đ - dʒ / җ (c)  
 
 The letter "h" (not cyrillic "х, һ") after the consonants and the letter "i" is written as "ch". And some borrowings from other languages.
 
