@@ -1,2 +1,2 @@
 
-?The religion of some Barsilians is Protestantism, Tengrism.
+?The religion of some Barsilians is Protestantism.
