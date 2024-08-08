@@ -3,6 +3,11 @@ Version 2
 `A Ä B C Č D Đ E F G H I Y K L M N Ñ O Ö P R S Š T U Ü V W J Z Ž`  
 `a ä b c č d đ e f g h i y k l m n ñ o ö p r s š t u ü v w j z ž`
 
+##### Alternatives
+
+`A Ā B C Č D Đ E F G H I Y K L M N Ñ O Ō P R S Š T U Ū V W J Z Ž`  
+`a ā b c č d đ e f g h i y k l m n ñ o ō p r s š t u ū v w j z ž`
+
 С с - t͡s / ц  
 Ž ž - ʒ / ж  (j)  
 Ĝ ĝ (? Ġ ġ) - dʒ / дж (dj)  
