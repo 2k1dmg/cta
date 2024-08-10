@@ -11,7 +11,7 @@ Version 2
 С с - t͡s / ц  
 Ž ž - ʒ / ж  (j)  
 Ĝ ĝ (? Ġ ġ) - dʒ / дж (dj)  
-Đ đ - dʒ / җ (c)  
+Đ đ (? Ċ ċ, Ż ż) - dʒ / җ (c)  
 
 The letter "h" (not cyrillic "х, һ") after the consonants and the letter "i" is written as "ch". And some borrowings from other languages.
 
